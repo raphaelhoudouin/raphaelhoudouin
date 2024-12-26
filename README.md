@@ -7,7 +7,7 @@ I'm Jean-Raphaël Houdouin, a Data Analyst with a passion for uncovering valuabl
 * **Languages:** Python, SQL, Excel (Power Query, Pivot Tables)
 * **Libraries:** Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib
 * **Tools:** Power BI, Tableau, Streamlit, Jupyter
-* **Domains:** Financial Analysis, Risk Management, Customer Insights
+* **Domains:** Financial Analysis, Customer Insights
 
 💼 Featured Projects
 
