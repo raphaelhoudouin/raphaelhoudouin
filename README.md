@@ -15,7 +15,7 @@ I'm Jean-Raphaël Houdouin, a Data Analyst with a passion for uncovering valuabl
 * **[/france_delinquency_analysis](https://github.com/rhoudouin/france_delinquency_analysis):** This project involved a statistical analysis of crime data across France, exploring trends and patterns at regional, departmental, and municipal levels. (Python, Pandas)
 
 ## 👤 My Stats
-![Jean-Raphaël H GitHub stats](https://github-readme-stats.vercel.app/api?username=rhoudouin&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=rhoudouin&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Let's Connect!
 
