@@ -16,7 +16,7 @@ I'm Jean-Raphaël Houdouin, a Data Analyst with a passion for uncovering valuabl
 
 ## 📫 Let's Connect!
 
-I'm always eager to collaborate on interesting data projects. Feel free to reach out!
+I'm always open to collaborate on interesting data projects. Feel free to reach out
 
 * **Name:** Jean-Raphaël Houdouin
 * **Email**: jean.raphael.hdn@gmail.com
