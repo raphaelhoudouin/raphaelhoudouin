@@ -19,5 +19,5 @@ I'm Jean-Raphaël Houdouin, a Data Analyst with a passion for uncovering valuabl
 I'm always eager to collaborate on interesting data projects. Feel free to reach out!
 
 * **Name:** Jean-Raphaël Houdouin
-* **Email:**jean.raphael.hdn@gmail.com
+* **Email**: jean.raphael.hdn@gmail.com
 - **LinkedIn**: [Jean Raphael Houdouin](https://linkedin.com/in/jeanraphaelhoudouin)
