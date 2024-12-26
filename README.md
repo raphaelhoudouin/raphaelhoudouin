@@ -14,10 +14,10 @@ I'm Jean-Raphaël Houdouin, a Data Analyst with a passion for uncovering valuabl
 * **[/france-energy-mix](rhoudouin/france-energy-mix):**  In this project, I analyzed the evolution of France's energy mix over the past decade, visualizing trends in renewable energy sources and identifying key factors influencing the shift towards sustainable energy. (Python, Pandas, Matplotlib,streamlit)
 * **[/france_delinquency_analysis](rhoudouin/france_delinquency_analysis):** This project involved developing 
 
-📫 Let's Connect!
+## 📫 Let's Connect!
 
 I'm always eager to collaborate on interesting data projects. Feel free to reach out!
 
-* **Name:** Raphaël Houdouin
-* **Email:** raphael.houdouin@gmail.com
+* **Name:** Jean-Raphaël Houdouin
+* **Email:**jean.raphael.hdn@gmail.com
 * **LinkedIn:** [Jean-Raphael Houdouin](Your LinkedIn Profile URL)
