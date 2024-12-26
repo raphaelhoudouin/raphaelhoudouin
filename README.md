@@ -1,6 +1,6 @@
-👋 Welcome to My GitHub!
-
-I'm Jean-Raphaël Houdouin, a Data Analyst with a passion for uncovering valuable insights from complex datasets. I enjoy applying my skills in machine learning and business intelligence to solve real-world problems and drive informed decision-making.
+👋 **Welcome to My GitHub!**
+---
+I'm *Jean-Raphaël Houdouin*, a Data Analyst with a passion for uncovering valuable insights from complex datasets. I enjoy applying my skills in machine learning and business intelligence to solve real-world problems and drive informed decision-making.
 
 🔧 Skills
 
