@@ -20,4 +20,4 @@ I'm always eager to collaborate on interesting data projects. Feel free to reach
 
 * **Name:** Jean-Raphaël Houdouin
 * **Email:**jean.raphael.hdn@gmail.com
-* **LinkedIn:** [Jean-Raphael Houdouin]([(https://www.linkedin.com/in/jeanraphaelhoudouin))
+- **LinkedIn**: [Jean Raphael Houdouin](https://linkedin.com/in/jeanraphaelhoudouin)
