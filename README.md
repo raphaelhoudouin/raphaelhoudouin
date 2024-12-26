@@ -11,7 +11,7 @@ I'm Jean-Raphaël Houdouin, a Data Analyst with a passion for uncovering valuabl
 
 💼 Featured Projects
 
-* **[/france-energy-mix](rhoudouin/france-energy-mix):**  In this project, I analyzed the evolution of France's energy mix over the past decade, visualizing trends in renewable energy sources and identifying key factors influencing the shift towards sustainable energy. (Python, Pandas, Matplotlib,streamlit)
+* **[france-energy-mix](https://github.com/rhoudouin/france-energy-mix):**  In this project, I analyzed the evolution of France's energy mix over the past decade, visualizing trends in renewable energy sources and identifying key factors influencing the shift towards sustainable energy. (Python, Pandas, Matplotlib)
 * **[/france_delinquency_analysis](rhoudouin/france_delinquency_analysis):** This project involved developing 
 
 ## 📫 Let's Connect!
