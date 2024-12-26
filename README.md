@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Welcome to My GitHub!
+I'm Jean-Raphaël Houdouin, a Data Analyst with expertise in financial data analysis, machine learning, and business intelligence. Passionate about extracting actionable insights from data to drive decision-making.
 
-<!--
-**rhoudouin/rhoudouin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Skills
+Languages: Python, SQL, Excel (Power Query, Pivot Tables)
+Libraries: Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib
+Tools: Power BI, Tableau, Streamlit, Jupyter
+Domains: Financial Analysis, Risk Management, Customer Insights
 
-Here are some ideas to get you started:
+💼 Featured Projects
+Credit Risk Modeling: Predicting credit risk using machine learning techniques.
+Bank Performance Dashboard: Interactive visualization of banking KPIs using Power BI.
+Fraud Detection System: Machine learning model for identifying fraudulent transactions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contact Me
+Name: Jean-Raphaël Houdouin
+Email: jean.raphael.hdn@gmail.com
+LinkedIn: Jean Raphael Houdouin  modifie ce code avec Jean-Raphaël Houdouin
