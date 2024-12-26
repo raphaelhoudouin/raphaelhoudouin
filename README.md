@@ -1,12 +1,12 @@
 👋 **Welcome to My GitHub!**
 ---
-I'm **Jean-Raphaël Houdouin**, a Data Analyst with a passion for uncovering valuable insights from complex datasets. I enjoy applying my skills in machine learning and business intelligence to solve real-world problems and drive informed decision-making.
+I'm Jean-Raphaël Houdouin, a Data Analyst with a passion for uncovering valuable insights from complex datasets. I enjoy applying my skills in machine learning and business intelligence to solve real-world problems and drive informed decision-making. I am particularly interested in contributing my expertise to innovative projects within the banking and finance industry, such as risk management, fraud detection, and portfolio optimization.
 
 ## 🔧 Skills
 
 * **Languages:** Python, SQL, Excel (Power Query, Pivot Tables)
 * **Libraries:** Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib
-* **Tools:** Power BI, Tableau, Streamlit, Jupyter
+* **Tools:** Power BI, Tableau, looker Studio, Streamlit, Jupyter
 * **Domains:** Financial Analysis, Customer Insights
 
 ## 💼 Featured Projects
