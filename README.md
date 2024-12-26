@@ -1,6 +1,6 @@
 👋 **Welcome to My GitHub!**
 ---
-I'm Jean-Raphaël Houdouin, a Data Analyst with a passion for uncovering valuable insights from complex datasets. I enjoy applying my skills in machine learning and business intelligence to solve real-world problems and drive informed decision-making. I am particularly interested in contributing my expertise to innovative projects within the banking and finance industry, such as risk management, fraud detection, and portfolio optimization.
+I'm Jean-Raphaël Houdouin, a Data Analyst with a passion for uncovering valuable insights from complex datasets. I enjoy applying my skills in machine learning and business intelligence to solve real-world problems and drive informed decision-making. I am eager to contribute to innovative projects within the banking and finance industry.
 
 ## 🔧 Skills
 
