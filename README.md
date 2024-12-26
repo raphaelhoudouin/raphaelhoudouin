@@ -9,6 +9,14 @@ I'm Jean-Raphaël Houdouin, a Data Analyst with a passion for uncovering valuabl
 - **Tools**: Power BI, Tableau, Looker Studio, Jupyter, Alteryx, Dataiku
 - **Domains:** Financial Analysis, Customer Insights
 
+## 🖥️ IDE/GUI’s I like
+
+<p align="center">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />
+<img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" />
+</p>
+
 ## 💼 Featured Projects
 
 * **[france-energy-mix](https://github.com/rhoudouin/france-energy-mix):**  This project focuses on analyzing historical electricity production and consumption data in France from 2013 to 2023 at a regional level. (Python, Pandas, Matplotlib, Scikit-learn, Streamlit)
