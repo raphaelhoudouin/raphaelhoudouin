@@ -1,4 +1,5 @@
-![Capsule Render](https://capsule-render.vercel.app/api?type=rect&height=300&color=0047AB&text=📊%20Jean-Raphaël%20Houdouin&fontSize=47&fontAlign=45&fontAlignY=40&desc=Data%20Analyst&descAlign=45&descAlignY=55&descSize=30&reversal=false&section=header)
+![Capsule Render](https://capsule-render.vercel.app/api?type=rect&height=300&color=82B1FF&text=📊%20Jean-Raphaël%20Houdouin&fontSize=47&fontAlign=center&fontAlignY=40&desc=Data%20Analyst&descAlign=center&descAlignY=55&descSize=30&reversal=false&section=header)
+
 
 #  **Welcome to My GitHub!**
 
