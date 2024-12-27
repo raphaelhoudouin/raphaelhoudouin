@@ -34,7 +34,7 @@ I'm Jean-Raphaël Houdouin, a Data Analyst with a passion for uncovering valuabl
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" /><br>
 </td>
 <td>
-<img src="https://skillicons.dev/icons?i=matlab" />
+<img src="https://skillicons.dev/icons?i=sas" />
 </td>
 </tr>
 </table>
