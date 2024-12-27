@@ -66,8 +66,8 @@ In my free time, I enjoy engaging in various hobbies that help me relax and rech
 
 - 🎨 **Art & Photography**: I like artists who work with digital art, painting, and design projects. Inspired by artists like:
   - [ Yatreda: ያጥሬዳ ](https://yatreda.com/) – In a fusion of tradition and innovation, Yatreda mints their artwork on the blockchain, employing a 21st-century approach to preserving history.
+  - [Joey Lawrence](https://joeylshop.com/pages/exhibitions), whose powerful portraits from Ethiopia and other parts of the world showcase deep cultural stories and human connection.
   - [Emory Douglas](https://www.moma.org/artists/70943), whose works are thought-provoking and impactful.  
-  - [Joey Lawrence](https://joeylshop.com/pages/exhibitions), whose powerful portraits from Ethiopia and other parts of the world showcase deep cultural stories and human connection.  
 - 🎶 **Music**: Listening to a wide variety of genres, from soul to amapiano.
 - 📚 **Reading**: Diving into books, particularly exploring works on Civil Rights such as:
   - *The Souls of Black Folk* by W.E.B. Du Bois
