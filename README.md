@@ -77,7 +77,7 @@ In my free time, I enjoy engaging in various hobbies that help me relax and rech
 - 🎬 **Cinema**: Watching movies, especially classics.
 - 🥾 **Hiking**: Exploring nature and challenging myself with new trails.
 - 🍽️ **Food**: Exploring new cuisines and experimenting with cooking. Some of my favorite dishes include:
-  - 🍲 **Injera with Doro Wat**: Traditional Ethiopian dish with spiced chicken served with injera (flatbread).
+  - 🍲  Injera with Doro Wat: Traditional Ethiopian dish with spiced chicken served with injera (flatbread).
 
 ## 📫 Let's Connect!
 
