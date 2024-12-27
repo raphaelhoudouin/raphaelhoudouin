@@ -11,7 +11,11 @@ I'm Jean-Raphaël Houdouin, a Data Analyst with a passion for uncovering valuabl
 
 ## Skills
 
-<img src="https://skillicons.dev/icons?i=python,sql,excel,pandas,numpy,scikitlearn,plotly,seaborn,matplotlib,bokeh,streamlit,powerbi,tableau,lookerstudio,jupyter,alteryx,dataiku&perline=7" />
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)<br>
+[![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)<br>
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) <br>
+[![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)<br>
+[![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)<br>
 
 ## 🖥️ IDE/GUI’s I like
 
