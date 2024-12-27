@@ -65,7 +65,7 @@ I'm Jean-Raphaël Houdouin, a Data Analyst with a passion for uncovering valuabl
 In my free time, I enjoy engaging in various hobbies that help me relax and recharge:
 
 - 🎨 **Art & Photography**: I like artists who work with digital art, painting, and design projects. Inspired by artists like:
-  - [ Yatreda: ያጥሬዳ ](https://yatreda.com/) – In a fusion of tradition and innovation, Yatreda mints their artwork on the blockchain, employing a 21st-century approach to preserving history.
+  - [ Yatreda: ያጥሬዳ ](https://yatreda.com/), in a fusion of tradition and innovation, Yatreda mints their artwork on the blockchain, employing a 21st-century approach to preserving history.
   - [Joey Lawrence](https://joeylshop.com/pages/exhibitions), whose powerful portraits from Ethiopia and other parts of the world showcase deep cultural stories and human connection.
   - [Emory Douglas](https://www.moma.org/artists/70943), whose works are thought-provoking and impactful.  
 - 🎶 **Music**: Listening to a wide variety of genres, from soul to amapiano.
