@@ -31,6 +31,7 @@ I'm Jean-Raphaël Houdouin, a Data Analyst with a passion for uncovering valuabl
 ## In the memory banks
 
 <td>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cplusplus.svg" alt="C++" style="width: 40px; height: 40px; margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/apachespark.svg" alt="Apache Spark" style="width: 40px; height: 40px;" />
 </td>
 
