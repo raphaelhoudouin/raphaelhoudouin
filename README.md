@@ -58,7 +58,7 @@ I’m eager to apply my expertise to innovative projects in the banking and fina
 * **[france-energy-mix](https://github.com/rhoudouin/france-energy-mix):**  This project focuses on analyzing historical electricity production and consumption data in France from 2013 to 2023 at a regional level. (Python, Pandas, Matplotlib, Scikit-learn, Streamlit)
 * **[/france_delinquency_analysis](https://github.com/rhoudouin/france_delinquency_analysis):** This project involved a statistical analysis of crime data across France, exploring trends and patterns at regional, departmental, and municipal levels. (Python, Pandas)
   
-* Check out my other repositories and projects on GitHub.
+* 📊 Check out my other repositories and projects on GitHub: [GitHub Link](https://github.com/rhoudouin?tab=repositories).
 
 ## 👤 My Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rhoudouin&show_icons=true&theme=tranparent)
@@ -69,8 +69,7 @@ In my free time, I enjoy engaging in various hobbies that help me relax and rech
 
 - 🎨 **Art & Photography**: I appreciate artists who work in digital art, painting, and design. Inspired by creators like:
   - [ Yatreda: ያጥሬዳ ](https://yatreda.com/),Yatreda minting their art on the blockchain to preserve history in a modern way. 
-  - [Joey Lawrence](https://joeylshop.com/pages/exhibitions), whose powerful portraits from Ethiopia showcase deep cultural stories and human connection.
-  - [Emory Douglas](https://www.moma.org/artists/70943), whose works are thought-provoking and impactful.  
+  - [Joey Lawrence](https://joeylshop.com/pages/exhibitions), whose powerful portraits from Ethiopia showcase deep cultural stories and human connection. 
 - 🎶 **Music**: Listening to a wide variety of genres, from soul to amapiano.
 - 📚 **Reading**: Diving into books, particularly exploring works on Civil Rights such as:
   - *The Souls of Black Folk* by W.E.B. Du Bois
