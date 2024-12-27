@@ -61,6 +61,8 @@ I’m eager to apply my expertise to innovative projects in the banking and fina
 * **[france-energy-mix](https://github.com/rhoudouin/france-energy-mix):**  This project focuses on analyzing historical electricity production and consumption data in France from 2013 to 2023 at a regional level. (Python, Pandas, Matplotlib, Scikit-learn, Streamlit)
 * **[/france_delinquency_analysis](https://github.com/rhoudouin/france_delinquency_analysis):** This project involved a statistical analysis of crime data across France, exploring trends and patterns at regional, departmental, and municipal levels. (Python, Pandas)
 
+📈 Check out my other repositories and projects on GitHub.
+
 ## 👤 My Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rhoudouin&show_icons=true&theme=tranparent)
 
