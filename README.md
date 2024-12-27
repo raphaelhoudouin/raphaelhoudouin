@@ -77,10 +77,9 @@ In my free time, I enjoy engaging in various hobbies that help me relax and rech
   - *The Souls of Black Folk* by W.E.B. Du Bois
   - *Eyes Off the Prize* by Carol Anderson
 - 🌍 **Travel**:I enjoy traveling to explore new cultures. My bucket list includes:
- - Mexico 🇲🇽
- - Thailand 🇹🇭
- - Ethiopia 🇪🇹
-
+  - Mexico 🇲🇽
+  - Thailand 🇹🇭
+  - Ethiopia 🇪🇹 
 - 🏃‍♂️ **Running**: Enjoying the outdoors and staying fit through running.
 - 🏊‍♂️ **Swimming**: Relaxing and keeping active in the water.
 - 🎬 **Cinema**: Watching movies, especially classics.
