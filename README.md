@@ -1,4 +1,3 @@
-# Hey 👋, I'm Jean-Raphaël
 
 ![Capsule Render](https://capsule-render.vercel.app/api?type=rect&height=300&color=F4D47B&text=Hey%20👋,%20I'm%20Jean-Raphaël-nl-Data%20Analyst&fontSize=47&fontAlign=50&fontAlignY=40&descAlign=50&descAlignY=55&descSize=10&reversal=false&section=header)
 
