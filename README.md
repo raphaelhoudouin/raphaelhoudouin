@@ -64,7 +64,7 @@ Explore more repositories on [GitHub](https://github.com/rhoudouin?tab=repositor
 - 🍲 **Food**: A favorite dish is Injera with Doro Wat.
 - 🌍 **Travel**: Bucket list includes
 - Mexico 🇲🇽
-- Thailand 🇹🇭.
+- Thailand 🇹🇭.🇹🇭
 
 ---
 
