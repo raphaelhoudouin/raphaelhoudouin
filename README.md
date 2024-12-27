@@ -80,7 +80,7 @@ In my free time, I enjoy hobbies that help me unwind:
 - 🎶 **Music**: A mix of genres, from soul to amapiano.
 - 🎬 **Cinema**: Watching classic films.
 - 📚 **Reading**: Exploring Civil Rights books like *The Souls of Black Folk* by W.E.B. Du Bois.
-- 🌍 Travel: Bucket list destinations include Mexico 🇲🇽, Thailand 🇹🇭.
+- 🌍 **Travel**: Bucket list destinations include Mexico 🇲🇽, Thailand 🇹🇭.
 - 🏃‍♂️ **Running**: Staying fit outdoors.
 - 🏊‍♂️ **Swimming**: Active in the water.
 - 🥾 **Hiking**: Exploring new trails.
