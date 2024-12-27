@@ -84,7 +84,7 @@ In my free time, I enjoy engaging in various hobbies that help me relax and rech
 - 🏊‍♂️ **Swimming**: Relaxing and keeping active in the water.
 - 🎬 **Cinema**: Watching movies, especially classics.
 - 🥾 **Hiking**: Exploring nature and challenging myself with new trails.
-- 🍲 **Food**: Exploring new cuisines,with one of my favorites being:
+- 🍲 **Food**: Exploring new cuisines, with one of my favorites being:
   - Injera with Doro Wat: Traditional Ethiopian dish with spiced chicken served with injera.
 
 ## 📫 Let's Connect!
