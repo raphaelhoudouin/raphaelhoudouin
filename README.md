@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=rect&height=300&color=F4D47B&text=Hey%20👋,%20I'm%20Jean-Raphaël&desc=nl-Data%20Analyst&fontSize=30&fontAlign=50&fontAlignY=40&descAlign=50&descAlignY=70
+![Hey 👋, I'm Jean-Raphaël - nl-Data Analyst](https://capsule-render.vercel.app/api?type=rect&height=300&color=F4D47B&text=Hey%20👋,%20I'm%20Jean-Raphaël&desc=nl-Data%20Analyst&fontSize=30&fontAlign=50&fontAlignY=40&descAlign=50&descAlignY=70)
 
 
 # 👋 **Welcome to My GitHub!**
