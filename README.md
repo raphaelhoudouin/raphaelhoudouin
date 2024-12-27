@@ -61,7 +61,6 @@ Explore more repositories on [GitHub](https://github.com/rhoudouin?tab=repositor
 - 🎨 **Art & Photography**: Inspired by creators like [Yatreda](https://yatreda.com/) and [Joey Lawrence](https://joeylshop.com/pages/exhibitions).
 - 🎶 **Music**: Exploring genres from soul to amapiano.
 - 🎬 **Cinema**: Watching classic films.
-- 📚 **Reading**: *The Souls of Black Folk* by W.E.B. Du Bois is a favorite.
 - 🌍 **Travel**: Bucket list includes Mexico and Thailand.
 - 🏃‍♂️ **Running** | 🏊‍♂️ **Swimming** | 🥾 **Hiking**.
 - 🍲 **Food**: A favorite dish is Injera with Doro Wat.
