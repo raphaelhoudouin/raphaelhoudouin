@@ -43,6 +43,11 @@ I’m Jean-Raphaël Houdouin, a Data Analyst with expertise in machine learning 
   <img src="https://skillicons.dev/icons?i=r" />
 </td>
 
+<td>
+  <img src="https://skillicons.dev/icons?i=r" alt="R" style="width: 30px; height: 30px;" />
+</td>
+
+
 ## 🧠 In the memory banks
 
 <td>
