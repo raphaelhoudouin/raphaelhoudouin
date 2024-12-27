@@ -59,9 +59,15 @@ I’m Jean-Raphaël Houdouin, a Data Analyst with expertise in machine learning 
   </span>
 </td>
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#00599C" width="40px" height="40px">
-  <!-- C++ SVG content -->
-</svg>
+<td>
+  <span style="display: inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C++" style="width: 40px; height: 40px; margin-right: 10px;" />
+  </span>
+  <span style="display: inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" style="width: 40px; height: 40px; margin-right: 10px;" />
+  </span>
+</td>
+
 
 
 
