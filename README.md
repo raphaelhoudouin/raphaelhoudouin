@@ -9,6 +9,36 @@ I'm Jean-Raphaël Houdouin, a Data Analyst with a passion for uncovering valuabl
 - **Tools**: Power BI, Tableau, Looker Studio, Jupyter, Alteryx, Dataiku
 - **Domains:** Financial Analysis, Customer Insights
 
+## Skills
+
+<table border="1px solid black" style="margin: 5px">
+<tr>
+<td>
+<b style="font-size:30px">I have</b>
+</td>
+<td>
+<b style="font-size:30px">I’m learning</b>
+</td>
+<td>
+<b style="font-size:30px">In the memory banks</b>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://skillicons.dev/icons?i=r,bash,git,sass,html,css,bootstrap,github,githubactions,md&perline=3" />
+</td>
+<td>
+<img src="https://skillicons.dev/icons?i=js,php,regex&perline=3" /> <br>
+<img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" /><br>
+</td>
+<td>
+<img src="https://skillicons.dev/icons?i=matlab" />
+</td>
+</tr>
+</table>
+
 ## 🖥️ IDE/GUI’s I like
 
 <p align="center">
