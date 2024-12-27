@@ -73,20 +73,20 @@ In my free time, I enjoy engaging in various hobbies that help me relax and rech
   - [Joey Lawrence](https://joeylshop.com/pages/exhibitions), whose powerful portraits from Ethiopia showcase deep cultural stories and human connection.
   - [Emory Douglas](https://www.moma.org/artists/70943), whose works are thought-provoking and impactful.  
 - 🎶 **Music**: Listening to a wide variety of genres, from soul to amapiano.
-- **Reading** 📚: Diving into books, particularly exploring works on Civil Rights such as:
+- 📚 **Reading**: Diving into books, particularly exploring works on Civil Rights such as:
   - *The Souls of Black Folk* by W.E.B. Du Bois
   - *Eyes Off the Prize* by Carol Anderson
 - 🌍 **Travel**:I enjoy traveling to explore new cultures. My bucket list includes:
-- Mexico 🇲🇽
-- Thailand 🇹🇭
-- Ethiopia 🇪🇹
+ - Mexico 🇲🇽
+ - Thailand 🇹🇭
+ - Ethiopia 🇪🇹
 
 - 🏃‍♂️ **Running**: Enjoying the outdoors and staying fit through running.
 - 🏊‍♂️ **Swimming**: Relaxing and keeping active in the water.
 - 🎬 **Cinema**: Watching movies, especially classics.
 - 🥾 **Hiking**: Exploring nature and challenging myself with new trails.
-- 🍽️ **Food**: Exploring new cuisines. One of my favorite dishes:
-  - 🍲  Injera with Doro Wat: Traditional Ethiopian dish with spiced chicken served with injera.
+- 🍲 **Food**: Exploring new cuisines. One of my favorite dishes:
+  - Injera with Doro Wat: Traditional Ethiopian dish with spiced chicken served with injera.
 
 ## 📫 Let's Connect!
 
