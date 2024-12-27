@@ -68,25 +68,20 @@ I’m eager to apply my expertise to innovative projects in the banking and fina
 
 ## 🕒 My Downtime
 
-In my free time, I enjoy engaging in various hobbies that help me relax and recharge:
+In my free time, I enjoy various hobbies that help me relax and recharge:
 
-- 🎨 **Art & Photography**: I appreciate artists who work in digital art, painting, and design. Inspired by creators like:
-  - [ Yatreda: ያጥሬዳ ](https://yatreda.com/),Yatreda minting their art on the blockchain to preserve history in a modern way. 
-  - [Joey Lawrence](https://joeylshop.com/pages/exhibitions), whose powerful portraits from Ethiopia showcase deep cultural stories and human connection. 
-- 🎶 **Music**: Listening to a wide variety of genres, from soul to amapiano.
-- 🎬 **Cinema**: Watching movies, especially classics.
-- 📚 **Reading**: Diving into books, particularly exploring works on Civil Rights such as:
-  - *The Souls of Black Folk* by W.E.B. Du Bois
-  - *Eyes Off the Prize* by Carol Anderson
-- 🌍 **Travel**: I enjoy traveling to explore new cultures. My bucket list includes:
-  - Mexico 🇲🇽
-  - Thailand 🇹🇭
-  - Ethiopia 🇪🇹 
-- 🏃‍♂️ **Running**: Enjoying the outdoors and staying fit through running.
-- 🏊‍♂️ **Swimming**: Relaxing and keeping active in the water.
-- 🥾 **Hiking**: Exploring nature and challenging myself with new trails.
-- 🍲 **Food**: Exploring new cuisines, with one of my favorites being:
-  - Injera with Doro Wat: Traditional Ethiopian dish with spiced chicken served with injera.
+- 🎨 **Art & Photography**: I admire digital art, painting, and design. Inspired by creators like:
+  - [Yatreda](https://yatreda.com/), minting art on the blockchain to preserve history.
+  - [Joey Lawrence](https://joeylshop.com/pages/exhibitions), whose portraits from Ethiopia capture deep cultural stories.
+- 🎶 **Music**: Enjoying a mix of genres, from soul to amapiano.
+- 🎬 **Cinema**: Watching classic films.
+- 📚 **Reading**: Exploring books on Civil Rights like *The Souls of Black Folk* by W.E.B. Du Bois and *Eyes Off the Prize* by Carol Anderson.
+- 🌍 **Travel**: Visiting new cultures, with a bucket list that includes:
+  - Mexico 🇲🇽, Thailand 🇹🇭, and Ethiopia 🇪🇹.
+- 🏃‍♂️ **Running**: Staying fit outdoors.
+- 🏊‍♂️ **Swimming**: Keeping active in the water.
+- 🥾 **Hiking**: Exploring nature on new trails.
+- 🍲 **Food**: Trying new cuisines, with one of my favorites being Injera with Doro Wat, a traditional Ethiopian dish.
 
 ## 📫 Let's Connect!
 
