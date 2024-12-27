@@ -1,9 +1,5 @@
 # 👋 **Welcome to My GitHub!**
 
-#<p align="center">
-  <img src="https://user-images.githubusercontent.com/123456789/your-banner-image-url.png" alt="GitHub Banner" style="width:100%; height:auto;" />
-</p>#
-
 I’m **Jean-Raphaël Houdouin**, a **Data Analyst** with expertise in **machine learning** and **business intelligence**. Passionate about leveraging data to solve business challenges, I’m excited to bring my skills to innovative projects, especially in the **banking and finance sectors**.
 
 ---
