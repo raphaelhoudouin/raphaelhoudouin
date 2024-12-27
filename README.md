@@ -58,7 +58,7 @@ Explore more repositories on [GitHub](https://github.com/rhoudouin?tab=repositor
 - 🎶 **Music**: Exploring genres from soul to amapiano.
 - 🎬 **Cinema**: Watching classic films.
 - 📚 **Reading**: *The Souls of Black Folk* by W.E.B. Du Bois is a favorite.
-- 🌍 **Travel**: Bucket list includes Mexico 🇲🇽 and Thailand 🇹🇭.
+- 🌍 **Travel**: Bucket list includes Mexico and Thailand.
 - 🏃‍♂️ **Running** | 🏊‍♂️ **Swimming** | 🥾 **Hiking**.
 - 🍲 **Food**: A favorite dish is Injera with Doro Wat.
 
@@ -69,4 +69,5 @@ Explore more repositories on [GitHub](https://github.com/rhoudouin?tab=repositor
 - **Name**: Jean-Raphaël Houdouin  
 - **Email**: [jean.raphael.hdn@gmail.com](mailto:jean.raphael.hdn@gmail.com)  
 - **LinkedIn**: [Jean-Raphaël Houdouin](https://linkedin.com/in/jeanraphaelhoudouin)
+
 
