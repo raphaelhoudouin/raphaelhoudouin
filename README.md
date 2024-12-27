@@ -58,6 +58,7 @@ Explore more repositories on [GitHub](https://github.com/rhoudouin?tab=repositor
 ### Activities I Enjoy:
 - 🎨 **Art & Photography**: Inspired by creators like [Yatreda: ያጥሬዳ](https://yatreda.com/) and [Joey Lawrence](https://joeylshop.com/pages/exhibitions).
 - 🎬 **Cinema**: Watching classic films.
+- 📚 **Reading**: *Georges* by Alexandre Dumas is a favorite.
 - 🌍 **Travel**: Bucket list includes Mexico and Thailand.
 - 🏃‍♂️ **Running** | 🏊‍♂️ **Swimming** | 🥾 **Hiking**.
 - 🍲 **Food**: A favorite dish is Injera with Doro Wat.
