@@ -62,7 +62,6 @@ Explore more repositories on [GitHub](https://github.com/rhoudouin?tab=repositor
 - 🌍 **Travel**: Bucket list includes Mexico and Thailand.
 - 🏃‍♂️ **Running** | 🏊‍♂️ **Swimming** | 🥾 **Hiking**.
 - 🍲 **Food**: A favorite dish is Injera with Doro Wat.
-- 🌍 **Travel**: Bucket list includes
 ---
 
 ## 📫 **Let's Connect**
