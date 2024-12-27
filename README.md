@@ -1,3 +1,7 @@
+<div align="center" style="background-color: #f4f4f4; padding: 20px; border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+  <h1 style="font-family: Arial, sans-serif; color: #2c3e50;">Hey! I'm Jean-Raphaël</h1>
+  <h2 style="font-family: Arial, sans-serif; font-weight: bold; color: #2980b9;">Data Analyst</h2>
+</div>
 
 
 # 👋 **Welcome to My GitHub!**
