@@ -11,33 +11,7 @@ I'm Jean-Raphaël Houdouin, a Data Analyst with a passion for uncovering valuabl
 
 ## Skills
 
-<table border="1px solid black" style="margin: 5px">
-<tr>
-<td>
-<b style="font-size:30px">I have</b>
-</td>
-<td>
-<b style="font-size:30px">I’m learning</b>
-</td>
-<td>
-<b style="font-size:30px">In the memory banks</b>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://skillicons.dev/icons?i=python,sql,excel,pandas,numpy,scikitlearn,plotly,seaborn,matplotlib,bokeh,streamlit,powerbi,tableau,lookerstudio,jupyter,alteryx,dataiku&perline=7" />
-</td>
-<td>
-<img src="https://skillicons.dev/icons?i=r,php,regex&perline=3" /> <br>
-<img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" /><br>
-</td>
-<td>
-<img src="https://skillicons.dev/icons?i=sas" />
-</td>
-</tr>
-</table>
+<imgsrc="https://skillicons.dev/iconsi=python,sql,excel,pandas,numpy,scikitlearn,plotly,seaborn,matplotlib,bokeh,streamlit,powerbi,tableau,lookerstudio,jupyter,alteryx,dataiku&perline=7" />
 
 ## 🖥️ IDE/GUI’s I like
 
