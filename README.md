@@ -64,21 +64,10 @@ I'm Jean-Raphaël Houdouin, a Data Analyst with a passion for uncovering valuabl
 
 In my free time, I enjoy engaging in various hobbies that help me relax and recharge:
 
-## 🕒 My Downtime
-
-In my free time, I enjoy engaging in various hobbies that help me relax and recharge:
-
-## 🕒 My Downtime
-
-In my free time, I enjoy engaging in various hobbies that help me relax and recharge:
-
 - 🎨 **Art & Photography**: Experimenting with digital art and design projects.
-- 🎶 **Music**: Listening to a wide variety of genres, from classical to electronic.
+- 🎶 **Music**: Listening to a wide variety of genres, from soul, blues, to amapiano.
 - 📚 **Reading**: Diving into books, particularly exploring works on Civil Rights such as:
-  - *The Autobiography of Malcolm X* by Malcolm X and Alex Haley
   - *The Souls of Black Folk* by W.E.B. Du Bois
-  - *The Long Walk to Freedom* by Nelson Mandela
-  - *Stride Toward Freedom: The Montgomery Story* by Martin Luther King Jr.
   - *Eyes Off the Prize* by Carol Anderson
   - *Between the World and Me* by Ta-Nehisi Coates
   - *A Testament of Hope* by Martin Luther King Jr.
@@ -88,10 +77,6 @@ In my free time, I enjoy engaging in various hobbies that help me relax and rech
 - 🎬 **Cinema**: Watching movies, especially classics.
 - 🥾 **Hiking**: Exploring nature and challenging myself with new trails.
 - 🍽️ **Food**: Exploring new cuisines and experimenting with cooking. Some of my favorite dishes include:
-- - 🍲 **Injera with Doro Wat** (Ethiopian): Traditional Ethiopian dish with spiced chicken served with injera (flatbread).
-  - 🌮 **Tacos** (Mexican): A mix of flavors with different fillings like beef, chicken, or veggies.
-  - 🍜 **Pad Thai** (Thai): Stir-fried rice noodles with a delicious balance of sweet, sour, and savory.
-  - 🍗 **Korean BBQ** (Korean): Grilled meats served with various side dishes like kimchi.
   - 🍲 **Injera with Doro Wat** (Ethiopian): Traditional Ethiopian dish with spiced chicken served with injera (flatbread).
 
 ## 📫 Let's Connect!
