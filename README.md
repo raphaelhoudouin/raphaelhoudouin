@@ -11,7 +11,7 @@ I’m eager to apply my expertise to innovative projects in the banking and fina
 - **Languages**: Python, SQL, Excel (Power Query, Pivot Tables, VBA, DAX, M)  
 - **Libraries**: Pandas, NumPy, Scikit-learn, Plotly, Seaborn, Matplotlib, Bokeh, Streamlit
 - **Tools**: Power BI, Tableau, Looker Studio, Jupyter, Alteryx, Dataiku
-- **Domains**: Financial Analysis, Customer Insights
+- **Domains**: Financial Analysis
 
 ### Tools & Libraries
 
