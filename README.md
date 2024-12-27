@@ -25,7 +25,10 @@ I'm Jean-Raphaël Houdouin, a Data Analyst with a passion for uncovering valuabl
 [![Dataiku](https://img.shields.io/badge/Dataiku-171C3A?style=for-the-badge&logo=dataiku&logoColor=white)](https://www.dataiku.com/)
 
 ## I’m learning	
-<script src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@2.0.2/dist/skill-icons.min.js"></script>
+
+<div align="center">
+  <skill-icons data-i="r"></skill-icons>
+</div>
 
 ## In the memory banks
 
