@@ -70,6 +70,7 @@ I’m Jean-Raphaël Houdouin, a Data Analyst with expertise in machine learning 
 </td>
 
 
+
 ## 📈 Featured Projects
 
 * **[france-energy-mix](https://github.com/rhoudouin/france-energy-mix):**  This project focuses on analyzing historical electricity production and consumption data in France from 2013 to 2023 at a regional level. (Python, Pandas, Matplotlib, Scikit-learn, Streamlit)
