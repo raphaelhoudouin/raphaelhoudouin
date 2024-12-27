@@ -1,102 +1,76 @@
-👋 **Welcome to My GitHub!**
----
-I’m Jean-Raphaël Houdouin, a Data Analyst with expertise in machine learning and business intelligence. Passionate about leveraging data to solve business challenges, I’m excited to bring my skills to innovative projects in the banking and finance sectors.
+# 👋 **Welcome to My GitHub!**
 
-# 🔧 **Skills**
+#<p align="center">
+  <img src="https://user-images.githubusercontent.com/123456789/your-banner-image-url.png" alt="GitHub Banner" style="width:100%; height:auto;" />
+</p>#
 
-### **Programming Languages**  
-- **Python** | **SQL** | **Excel** (Power Query, Pivot Tables, VBA, DAX, M)
-
-### **Libraries & Frameworks**  
-- **Pandas** | **NumPy** | **Scikit-learn** | **Plotly** | **Seaborn** | **Matplotlib** | **Bokeh** | **Streamlit**
-
-### **Data Visualization & BI Tools**  
-- **Power BI** | **Tableau** | **Looker Studio** | **Jupyter** | **Alteryx** | **Dataiku**
-
-### **Specialization**  
-- **Financial Analysis**  
+I’m **Jean-Raphaël Houdouin**, a **Data Analyst** with expertise in **machine learning** and **business intelligence**. Passionate about leveraging data to solve business challenges, I’m excited to bring my skills to innovative projects, especially in the **banking and finance sectors**.
 
 ---
 
-### **Tools & Libraries**  
+## 🔧 **Skills & Tools**
 
+### **Programming Languages & Libraries**
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+
+### **Data Science & Visualization**
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Bokeh](https://img.shields.io/badge/Bokeh-FF7A05?style=for-the-badge&logo=bokeh&logoColor=white)](https://bokeh.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+
+### **BI & Dashboard Tools**
 [![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)](https://powerbi.microsoft.com/)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
 [![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google-data-studio&logoColor=white)](https://lookerstudio.google.com/)
+
+### **Data Platforms & Notebooks**
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Alteryx](https://img.shields.io/badge/Alteryx-097AB8?style=for-the-badge&logo=alteryx&logoColor=white)](https://www.alteryx.com/)
 [![Dataiku](https://img.shields.io/badge/Dataiku-171C3A?style=for-the-badge&logo=dataiku&logoColor=white)](https://www.dataiku.com/)
 
+---
 
-## 📚 I’m learning
+## 📈 **Featured Projects**
 
-<td>
-  <img src="https://skillicons.dev/icons?i=r" alt="R" style="width: 40px; height: 40px;" />
-</td>
+### **[france-energy-mix](https://github.com/rhoudouin/france-energy-mix)**
+Analysis of historical electricity production and consumption data in France from 2013 to 2023.  
+*Technologies: Python, Pandas, Matplotlib, Scikit-learn, Streamlit.*
 
-## 🧠 In the memory banks
+### **[france_delinquency_analysis](https://github.com/rhoudouin/france_delinquency_analysis)**
+Statistical analysis of crime data across France, exploring trends and patterns.  
+*Technologies: Python, Pandas.*
 
-<td>
-  <span style="display: inline-block;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C++" style="width: 40px; height: 40px; margin-right: 10px;" />
-  </span>
-  <span style="display: inline-block;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" style="width: 40px; height: 40px; margin-right: 10px;" />
-  </span>
-</td>
-  <span style="display: inline-block;">
-    <a href="https://www.sas.com/">
-      <img src="https://img.shields.io/badge/SAS-00A9E0?style=for-the-badge&logo=sas&logoColor=white" alt="SAS" style="width: 40px; height: 40px;" />
-    </a>
-  </span>
-</td>
+Explore more repositories on [GitHub](https://github.com/rhoudouin?tab=repositories).
 
-## 💻 IDE/GUI’s I like
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=PyCharm&logoColor=white" />
-</p>
+## 👤 **My Stats**
 
-## 📈 Featured Projects
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rhoudouin&show_icons=true&theme=transparent)
 
-* **[france-energy-mix](https://github.com/rhoudouin/france-energy-mix):**  This project focuses on analyzing historical electricity production and consumption data in France from 2013 to 2023 at a regional level. (Python, Pandas, Matplotlib, Scikit-learn, Streamlit)
-* **[/france_delinquency_analysis](https://github.com/rhoudouin/france_delinquency_analysis):** This project involved a statistical analysis of crime data across France, exploring trends and patterns at regional, departmental, and municipal levels. (Python, Pandas)
-  
-* Check out my other repositories and projects on [Repositories](https://github.com/rhoudouin?tab=repositories).
+---
 
-## 👤 My Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rhoudouin&show_icons=true&theme=tranparent)
+## 🕒 **My Downtime**
 
-## 🕒 My Downtime
-
-In my free time, I enjoy hobbies that help me unwind:
-
-- 🎨 **Art & Photography**: Inspired by creators like [Yatreda](https://yatreda.com/) (minting art on the blockchain) and [Joey Lawrence](https://joeylshop.com/pages/exhibitions) (Ethiopian portraits).
-- 🎶 **Music**: A mix of genres, from soul to amapiano.
+### Activities I Enjoy:
+- 🎨 **Art & Photography**: Inspired by creators like [Yatreda](https://yatreda.com/) and [Joey Lawrence](https://joeylshop.com/pages/exhibitions).
+- 🎶 **Music**: Exploring genres from soul to amapiano.
 - 🎬 **Cinema**: Watching classic films.
-- 📚 **Reading**: Exploring Civil Rights books like *The Souls of Black Folk* by W.E.B. Du Bois.
-- 🌍 **Travel**: Bucket list destinations include Mexico 🇲🇽, Thailand 🇹🇭.
-- 🏃‍♂️ **Running**: Staying fit outdoors.
-- 🏊‍♂️ **Swimming**: Active in the water.
-- 🥾 **Hiking**: Exploring new trails.
-- 🍲 **Food**: Enjoying cuisines like Injera with Doro Wat, a traditional Ethiopian dish.
+- 📚 **Reading**: *The Souls of Black Folk* by W.E.B. Du Bois is a favorite.
+- 🌍 **Travel**: Bucket list includes Mexico 🇲🇽 and Thailand 🇹🇭.
+- 🏃‍♂️ **Running** | 🏊‍♂️ **Swimming** | 🥾 **Hiking**.
+- 🍲 **Food**: A favorite dish is Injera with Doro Wat.
 
-## 📫 Let's Connect!
+---
 
-I'm always open to collaborate on interesting data projects. Feel free to reach out
+## 📫 **Let's Connect**
 
-* **Name:** Jean-Raphaël Houdouin
-* **Email**: jean.raphael.hdn@gmail.com
-* **LinkedIn**: [Jean Raphael Houdouin](https://linkedin.com/in/jeanraphaelhoudouin)
+- **Name**: Jean-Raphaël Houdouin  
+- **Email**: [jean.raphael.hdn@gmail.com](mailto:jean.raphael.hdn@gmail.com)  
+- **LinkedIn**: [Jean-Raphaël Houdouin](https://linkedin.com/in/jeanraphaelhoudouin)
 
