@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://via.placeholder.com/600x200/2c3e50/ffffff?text=Hey!+I'm+Jean-Raphaël+%0AData+Analyst" alt="Hey! I'm Jean-Raphaël - Data Analyst" style="border-radius:10px;" />
-</p>
 
 
 # 👋 **Welcome to My GitHub!**
