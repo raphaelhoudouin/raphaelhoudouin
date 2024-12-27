@@ -31,6 +31,8 @@ I’m eager to apply my expertise to innovative projects in the banking and fina
 [![Alteryx](https://img.shields.io/badge/Alteryx-097AB8?style=for-the-badge&logo=alteryx&logoColor=white)](https://www.alteryx.com/)
 [![Dataiku](https://img.shields.io/badge/Dataiku-171C3A?style=for-the-badge&logo=dataiku&logoColor=white)](https://www.dataiku.com/)
 
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+
 ## 📚 I’m learning
 
 <td>
