@@ -24,8 +24,6 @@ I'm Jean-Raphaël Houdouin, a Data Analyst with a passion for uncovering valuabl
 [![Alteryx](https://img.shields.io/badge/Alteryx-097AB8?style=for-the-badge&logo=alteryx&logoColor=white)](https://www.alteryx.com/)
 [![Dataiku](https://img.shields.io/badge/Dataiku-171C3A?style=for-the-badge&logo=dataiku&logoColor=white)](https://www.dataiku.com/)
 
-[![Power BI](https://img.shields.io/badge/PowerBI-00599C?style=for-the-badge&logo=microsoft&logoColor=white)](https://powerbi.microsoft.com/)
-
 I'm learning
 
 ## 🖥️ IDE/GUI’s I like
