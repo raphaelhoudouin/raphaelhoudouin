@@ -31,8 +31,9 @@ I'm Jean-Raphaël Houdouin, a Data Analyst with a passion for uncovering valuabl
 ## In the memory banks
 
 <td>
-<img src="https://skillicons.dev/icons?i=hadoop" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/apachespark.svg" alt="Apache Spark" style="width: 40px; height: 40px;" />
 </td>
+
 
 ## 🖥️ IDE/GUI’s I like
 
