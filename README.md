@@ -3,7 +3,7 @@
 )
 
 
-#  **Welcome to My GitHub!**
+# 👋 **Welcome to My GitHub!**
 
 I’m **Jean-Raphaël Houdouin**, a **Data Analyst** with expertise in **machine learning** and **business intelligence**. Passionate about leveraging data to solve business challenges, I’m excited to bring my skills to innovative projects, especially in the **banking and finance sectors**.
 
