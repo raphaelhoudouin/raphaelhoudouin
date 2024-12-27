@@ -1,6 +1,10 @@
 👋 **Welcome to My GitHub!**
 ---
-I’m Jean-Raphaël Houdouin, a Data Analyst skilled in machine learning and business intelligence. I specialize in extracting actionable insights from complex datasets to support informed decision-making. I’m eager to apply my expertise to innovative projects in the banking and finance industry.
+I’m Jean-Raphaël Houdouin, a Data Analyst skilled in machine learning and business intelligence. 
+
+I specialize in extracting actionable insights from complex datasets to support informed decision-making. 
+
+I’m eager to apply my expertise to innovative projects in the banking and finance industry.
 
 ## 🔧 Skills
 
