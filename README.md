@@ -53,7 +53,9 @@ I’m Jean-Raphaël Houdouin, a Data Analyst with expertise in machine learning 
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/apachespark.svg" alt="Apache Spark" style="width: 40px; height: 40px; margin-right: 10px;" />
   </span>
   <span style="display: inline-block;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/SAS_logo_horiz.svg" alt="SAS" style="width: 40px; height: 40px;" />
+    <a href="https://www.sas.com/">
+      <img src="https://img.shields.io/badge/SAS-00A9E0?style=for-the-badge&logo=sas&logoColor=white" alt="SAS" style="width: 40px; height: 40px;" />
+    </a>
   </span>
 </td>
 
