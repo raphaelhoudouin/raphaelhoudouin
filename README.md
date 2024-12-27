@@ -71,6 +71,7 @@ In my free time, I enjoy engaging in various hobbies that help me relax and rech
   - [ Yatreda: ያጥሬዳ ](https://yatreda.com/),Yatreda minting their art on the blockchain to preserve history in a modern way. 
   - [Joey Lawrence](https://joeylshop.com/pages/exhibitions), whose powerful portraits from Ethiopia showcase deep cultural stories and human connection. 
 - 🎶 **Music**: Listening to a wide variety of genres, from soul to amapiano.
+- 🎬 **Cinema**: Watching movies, especially classics.
 - 📚 **Reading**: Diving into books, particularly exploring works on Civil Rights such as:
   - *The Souls of Black Folk* by W.E.B. Du Bois
   - *Eyes Off the Prize* by Carol Anderson
@@ -80,7 +81,6 @@ In my free time, I enjoy engaging in various hobbies that help me relax and rech
   - Ethiopia 🇪🇹 
 - 🏃‍♂️ **Running**: Enjoying the outdoors and staying fit through running.
 - 🏊‍♂️ **Swimming**: Relaxing and keeping active in the water.
-- 🎬 **Cinema**: Watching movies, especially classics.
 - 🥾 **Hiking**: Exploring nature and challenging myself with new trails.
 - 🍲 **Food**: Exploring new cuisines, with one of my favorites being:
   - Injera with Doro Wat: Traditional Ethiopian dish with spiced chicken served with injera.
