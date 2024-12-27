@@ -1,6 +1,6 @@
 👋 **Welcome to My GitHub!**
 ---
-I'm Jean-Raphaël Houdouin, a Data Analyst with a passion for uncovering valuable insights from complex datasets. I enjoy applying my skills in machine learning and business intelligence to solve real-world problems and drive informed decision-making. I am eager to contribute to innovative projects within the banking and finance industry.
+I’m Jean-Raphaël Houdouin, a Data Analyst skilled in machine learning and business intelligence. I specialize in extracting actionable insights from complex datasets to support informed decision-making. I’m eager to apply my expertise to innovative projects in the banking and finance industry.
 
 ## 🔧 Skills
 
@@ -64,9 +64,9 @@ I'm Jean-Raphaël Houdouin, a Data Analyst with a passion for uncovering valuabl
 
 In my free time, I enjoy engaging in various hobbies that help me relax and recharge:
 
-- 🎨 **Art & Photography**: I like artists who work with digital art, painting, and design projects. Inspired by artists like:
-  - [ Yatreda: ያጥሬዳ ](https://yatreda.com/), in a fusion of tradition and innovation, Yatreda mints their artwork on the blockchain, employing a 21st-century approach to preserving history.
-  - [Joey Lawrence](https://joeylshop.com/pages/exhibitions), whose powerful portraits from Ethiopia and other parts of the world showcase deep cultural stories and human connection.
+- 🎨 **Art & Photography**: I appreciate artists who work in digital art, painting, and design. Inspired by creators like:
+  - [ Yatreda: ያጥሬዳ ](https://yatreda.com/),Yatreda blends tradition with innovation, minting their art on the blockchain to preserve history in a modern way. 
+  - [Joey Lawrence](https://joeylshop.com/pages/exhibitions), whose powerful portraits from Ethiopia showcase deep cultural stories and human connection.
   - [Emory Douglas](https://www.moma.org/artists/70943), whose works are thought-provoking and impactful.  
 - 🎶 **Music**: Listening to a wide variety of genres, from soul to amapiano.
 - 📚 **Reading**: Diving into books, particularly exploring works on Civil Rights such as:
@@ -77,7 +77,7 @@ In my free time, I enjoy engaging in various hobbies that help me relax and rech
 - 🏊‍♂️ **Swimming**: Relaxing and keeping active in the water.
 - 🎬 **Cinema**: Watching movies, especially classics.
 - 🥾 **Hiking**: Exploring nature and challenging myself with new trails.
-- 🍽️ **Food**: Exploring new cuisines and experimenting with cooking. Some of my favorite dishes include:
+- 🍽️ **Food**: Exploring new cuisines. Some of my favorite dishes include:
   - 🍲  Injera with Doro Wat: Traditional Ethiopian dish with spiced chicken served with injera.
 
 ## 📫 Let's Connect!
