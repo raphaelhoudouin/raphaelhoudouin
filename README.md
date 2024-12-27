@@ -26,9 +26,9 @@ I'm Jean-Raphaël Houdouin, a Data Analyst with a passion for uncovering valuabl
 
 ## I’m learning	
 
-<div align="center">
-  <skill-icons data-i="r"></skill-icons>
-</div>
+<td>
+<img src="https://skillicons.dev/icons?i=r" />
+</td>
 
 ## In the memory banks
 
