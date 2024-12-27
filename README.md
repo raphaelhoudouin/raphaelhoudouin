@@ -1,35 +1,10 @@
 👋 **Welcome to My GitHub!**
 ---
-I’m Jean-Raphaël Houdouin, a Data Analyst skilled in machine learning and business intelligence. 
+I’m Jean-Raphaël Houdouin, a Data Analyst with expertise in machine learning and business intelligence.
 
-I specialize in extracting actionable insights from complex datasets to support informed decision-making. 
+I specialize in transforming complex datasets into actionable insights that drive informed decision-making.
 
-I’m eager to apply my expertise to innovative projects in the banking and finance industry.
-
-## 🔧 Skills
-
-- **Languages**: Python, SQL, Excel (Power Query, Pivot Tables, VBA, DAX, M)  
-- **Libraries**: Pandas, NumPy, Scikit-learn, Plotly, Seaborn, Matplotlib, Bokeh, Streamlit
-- **Tools**: Power BI, Tableau, Looker Studio, Jupyter, Alteryx, Dataiku
-- **Domains**: Financial Analysis
-
-### Tools & Libraries
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
-[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
-[![Bokeh](https://img.shields.io/badge/Bokeh-FF7A05?style=for-the-badge&logo=bokeh&logoColor=white)](https://bokeh.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)](https://powerbi.microsoft.com/)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
-[![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google-data-studio&logoColor=white)](https://lookerstudio.google.com/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![Alteryx](https://img.shields.io/badge/Alteryx-097AB8?style=for-the-badge&logo=alteryx&logoColor=white)](https://www.alteryx.com/)
-[![Dataiku](https://img.shields.io/badge/Dataiku-171C3A?style=for-the-badge&logo=dataiku&logoColor=white)](https://www.dataiku.com/)
+Passionate about leveraging data to solve business challenges, I’m excited to bring my skills to innovative projects in the banking and finance sectors.
 
 # 🔧 **Skills**
 
