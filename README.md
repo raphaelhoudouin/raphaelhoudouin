@@ -1,7 +1,6 @@
+![Capsule Render](https://capsule-render.vercel.app/api?type=rect&height=300&color=F4D47B&text=Hey%20👋,%20I'm%20Jean-Raphaël&fontSize=47&fontAlign=45&fontAlignY=40&desc=Data%20Analyst&descAlign=45&descAlignY=55&descSize=30&reversal=false&section=header)
 
-![Capsule Render](https://capsule-render.vercel.app/api?type=rect&height=300&color=F4D47B&text=Hey%20👋,%20I'm%20Jean-Raphaël&fontSize=47&fontAlign=50&fontAlignY=40&desc=Data%20Analyst&descAlign=50&descAlignY=55&descSize=30&reversal=false&section=header)
-
-# 👋 **Welcome to My GitHub!**
+#  **Welcome to My GitHub!**
 
 I’m **Jean-Raphaël Houdouin**, a **Data Analyst** with expertise in **machine learning** and **business intelligence**. Passionate about leveraging data to solve business challenges, I’m excited to bring my skills to innovative projects, especially in the **banking and finance sectors**.
 
