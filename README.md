@@ -70,7 +70,6 @@ In my free time, I enjoy engaging in various hobbies that help me relax and rech
   - *The Souls of Black Folk* by W.E.B. Du Bois
   - *Eyes Off the Prize* by Carol Anderson
   - *Between the World and Me* by Ta-Nehisi Coates
-  - *A Testament of Hope* by Martin Luther King Jr.
 - 🌍 **Travel**: Visiting new places to learn about different cultures and experiences.
 - 🏃‍♂️ **Running**: Enjoying the outdoors and staying fit through running.
 - 🏊‍♂️ **Swimming**: Relaxing and keeping active in the water.
