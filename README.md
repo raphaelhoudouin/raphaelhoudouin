@@ -11,7 +11,7 @@ I'm Jean-Raphaël Houdouin, a Data Analyst with a passion for uncovering valuabl
 
 ## Skills
 
-<imgsrc="https://skillicons.dev/iconsi=python,sql,excel,pandas,numpy,scikitlearn,plotly,seaborn,matplotlib,bokeh,streamlit,powerbi,tableau,lookerstudio,jupyter,alteryx,dataiku&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,sql,excel,pandas,numpy,scikitlearn,plotly,seaborn,matplotlib,bokeh,streamlit,powerbi,tableau,lookerstudio,jupyter,alteryx,dataiku&perline=7" />
 
 ## 🖥️ IDE/GUI’s I like
 
