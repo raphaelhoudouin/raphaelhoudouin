@@ -27,7 +27,7 @@ I'm Jean-Raphaël Houdouin, a Data Analyst with a passion for uncovering valuabl
 ## I’m learning	
 
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
-
+<img src="https://skillicons.dev/icons?i=r
 ## In the memory banks
 
 ## 🖥️ IDE/GUI’s I like
