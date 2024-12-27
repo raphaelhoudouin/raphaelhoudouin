@@ -1,3 +1,7 @@
+<div align="center" style="background-color: #f4a261; padding: 20px; border-radius: 10px;">
+  <h1 style="color: #ffffff;">Hey! I am Jean-Raphaël - Data Analyst</h1>
+</div>
+
 # 👋 **Welcome to My GitHub!**
 
 I’m **Jean-Raphaël Houdouin**, a **Data Analyst** with expertise in **machine learning** and **business intelligence**. Passionate about leveraging data to solve business challenges, I’m excited to bring my skills to innovative projects, especially in the **banking and finance sectors**.
