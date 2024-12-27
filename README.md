@@ -59,15 +59,9 @@ I’m Jean-Raphaël Houdouin, a Data Analyst with expertise in machine learning 
   </span>
 </td>
 
-<td>
-  <span style="display: inline-block;">
-    <span class="iconify" data-icon="logos:c-plusplus" style="width: 40px; height: 40px; margin-right: 10px;"></span>
-  </span>
-  <span style="display: inline-block;">
-    <span class="iconify" data-icon="logos:apache-spark" style="width: 40px; height: 40px; margin-right: 10px;"></span>
-  </span>
-  <script src="https://code.iconify.design/2/2.0.0/iconify.min.js"></script>
-</td>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#00599C" width="40px" height="40px">
+  <!-- C++ SVG content -->
+</svg>
 
 
 
