@@ -1,7 +1,6 @@
-# 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
-### Hey! I am **Jean-Raphaël** - Data Analyst  
-_Passionate about turning data into actionable insights!_  
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+<p align="center">
+  <img src="assets/banner.png" alt="Hey! I am Jean-Raphaël - Data Analyst" />
+</p>
 
 
 # 👋 **Welcome to My GitHub!**
