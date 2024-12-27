@@ -1,7 +1,9 @@
-[![Capsule Render](https://capsule-render.vercel.app/api?type=rect&height=300&color=2979FF&text=📊%20Jean-Raphaël%20Houdouin&fontSize=47&fontAlign=right&fontAlignY=35&desc=Data%20Analyst&descAlign=right&descAlignY=55&descSize=30&reversal=false&section=header)
+[[[![Capsule Render](https://capsule-render.vercel.app/api?type=rect&height=300&color=2979FF&text=📊%20Jean-Raphaël%20Houdouin&fontSize=47&fontAlign=right&fontAlignY=35&desc=Data%20Analyst&descAlign=right&descAlignY=55&descSize=30&reversal=false&section=header)
 ](https://capsule-render.vercel.app/api?type=rect&height=300&color=2979FF&text=📊%20Jean-Raphaël%20Houdouin&fontSize=47&fontAlign=center&fontAlignY=35&desc=Data%20Analyst&descAlign=center&descAlignY=55&descSize=30&reversal=false&section=header
 )
-
+](https://capsule-render.vercel.app/api?type=rect&height=300&color=2979FF&text=📊%20Jean-Raphaël%20Houdouin&fontSize=47&fontAlign=center&fontAlignY=50&desc=Data%20Analyst&descAlign=center&descAlignY=75&descSize=30&reversal=false&section=header
+)](https://capsule-render.vercel.app/api?type=rect&height=300&color=2979FF&text=📊%20Jean-Raphaël%20Houdouin&fontSize=47&fontAlign=center&fontAlignY=50&desc=Data%20Analyst&descAlign=center&descAlignY=75&descSize=30&reversal=false&section=header
+)
 
 # 👋 **Welcome to My GitHub!**
 
