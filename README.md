@@ -1,6 +1,7 @@
-<div align="center" style="padding: 20px; background: linear-gradient(to right, #4CAF50, #8BC34A); border-radius: 10px; color: white;">
-  <h1>Hey! I am Jean-Raphaël - Data Analyst</h1>
-</div>
+# 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+### Hey! I am **Jean-Raphaël** - Data Analyst  
+_Passionate about turning data into actionable insights!_  
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 
 
 # 👋 **Welcome to My GitHub!**
