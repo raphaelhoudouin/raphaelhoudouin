@@ -63,9 +63,6 @@ Explore more repositories on [GitHub](https://github.com/rhoudouin?tab=repositor
 - 🏃‍♂️ **Running** | 🏊‍♂️ **Swimming** | 🥾 **Hiking**.
 - 🍲 **Food**: A favorite dish is Injera with Doro Wat.
 - 🌍 **Travel**: Bucket list includes
-- Mexico 🇲🇽
-- Thailand 🇹🇭
-
 ---
 
 ## 📫 **Let's Connect**
