@@ -9,8 +9,6 @@ I'm Jean-Raphaël Houdouin, a Data Analyst with a passion for uncovering valuabl
 - **Tools**: Power BI, Tableau, Looker Studio, Jupyter, Alteryx, Dataiku
 - **Domains:** Financial Analysis, Customer Insights
 
-## Skills
-
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
