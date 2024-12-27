@@ -28,6 +28,10 @@ I'm Jean-Raphaël Houdouin, a Data Analyst with a passion for uncovering valuabl
 <img src="https://skillicons.dev/icons?i=r" />
 </td>
 
+<td>
+<img src="https://skillicons.dev/icons?i=sas" />
+</td>
+
 ## In the memory banks
 
 ## 🖥️ IDE/GUI’s I like
