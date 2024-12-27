@@ -69,7 +69,7 @@ I’m eager to apply my expertise to innovative projects in the banking and fina
 In my free time, I enjoy engaging in various hobbies that help me relax and recharge:
 
 - 🎨 **Art & Photography**: I appreciate artists who work in digital art, painting, and design. Inspired by creators like:
-  - [ Yatreda: ያጥሬዳ ](https://yatreda.com/),Yatreda blends tradition with innovation, minting their art on the blockchain to preserve history in a modern way. 
+  - [ Yatreda: ያጥሬዳ ](https://yatreda.com/),Yatreda minting their art on the blockchain to preserve history in a modern way. 
   - [Joey Lawrence](https://joeylshop.com/pages/exhibitions), whose powerful portraits from Ethiopia showcase deep cultural stories and human connection.
   - [Emory Douglas](https://www.moma.org/artists/70943), whose works are thought-provoking and impactful.  
 - 🎶 **Music**: Listening to a wide variety of genres, from soul to amapiano.
