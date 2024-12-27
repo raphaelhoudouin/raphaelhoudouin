@@ -78,20 +78,17 @@ Passionate about leveraging data to solve business challenges, I’m excited to 
 
 ## 🕒 My Downtime
 
-In my free time, I enjoy various hobbies that help me relax and recharge:
+In my free time, I enjoy hobbies that help me unwind:
 
-- 🎨 **Art & Photography**: I admire digital art, painting, and design. Inspired by creators like:
-  - [Yatreda](https://yatreda.com/), minting art on the blockchain to preserve history.
-  - [Joey Lawrence](https://joeylshop.com/pages/exhibitions), whose portraits from Ethiopia capture deep cultural stories.
-- 🎶 **Music**: Enjoying a mix of genres, from soul to amapiano.
+- 🎨 **Art & Photography**: Inspired by creators like [Yatreda](https://yatreda.com/) (minting art on the blockchain) and [Joey Lawrence](https://joeylshop.com/pages/exhibitions) (Ethiopian portraits).
+- 🎶 **Music**: A mix of genres, from soul to amapiano.
 - 🎬 **Cinema**: Watching classic films.
-- 📚 **Reading**: Exploring books on Civil Rights like *The Souls of Black Folk* by W.E.B. Du Bois and *Eyes Off the Prize* by Carol Anderson.
-- 🌍 **Travel**: Visiting new cultures, with a bucket list that includes:
-  - Mexico 🇲🇽, Thailand 🇹🇭, and Ethiopia 🇪🇹.
+- 📚 **Reading**: Exploring Civil Rights books like *The Souls of Black Folk* by W.E.B. Du Bois.
+- 🌍 **Travel**: Visiting new cultures, including Mexico 🇲🇽, Thailand 🇹🇭, and Ethiopia 🇪🇹.
 - 🏃‍♂️ **Running**: Staying fit outdoors.
-- 🏊‍♂️ **Swimming**: Keeping active in the water.
-- 🥾 **Hiking**: Exploring nature on new trails.
-- 🍲 **Food**: Trying new cuisines, with one of my favorites being Injera with Doro Wat, a traditional Ethiopian dish.
+- 🏊‍♂️ **Swimming**: Active in the water.
+- 🥾 **Hiking**: Exploring new trails.
+- 🍲 **Food**: Enjoying cuisines like Injera with Doro Wat, a traditional Ethiopian dish.
 
 ## 📫 Let's Connect!
 
