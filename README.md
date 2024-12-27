@@ -57,15 +57,6 @@ I’m Jean-Raphaël Houdouin, a Data Analyst with expertise in machine learning 
   </span>
 </td>
 
-    
-## 🖥️ IDE/GUI’s I like
-
-<p align="center">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white&color=black&labelColor=green" />
-</p>
-
 ## 📈 Featured Projects
 
 * **[france-energy-mix](https://github.com/rhoudouin/france-energy-mix):**  This project focuses on analyzing historical electricity production and consumption data in France from 2013 to 2023 at a regional level. (Python, Pandas, Matplotlib, Scikit-learn, Streamlit)
