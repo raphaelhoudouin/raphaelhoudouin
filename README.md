@@ -56,7 +56,7 @@ Explore more repositories on [GitHub](https://github.com/rhoudouin?tab=repositor
 ## 🕒 **My Downtime**
 
 ### Activities I Enjoy:
-- 🎨 **Art & Photography**: Inspired by creators like [Yatreda](https://yatreda.com/) and [Joey Lawrence](https://joeylshop.com/pages/exhibitions).
+- 🎨 **Art & Photography**: Inspired by creators like [Yatreda: ያጥሬዳ](https://yatreda.com/) and [Joey Lawrence](https://joeylshop.com/pages/exhibitions).
 - 🎬 **Cinema**: Watching classic films.
 - 🌍 **Travel**: Bucket list includes Mexico and Thailand.
 - 🏃‍♂️ **Running** | 🏊‍♂️ **Swimming** | 🥾 **Hiking**.
