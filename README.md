@@ -65,7 +65,7 @@ I'm Jean-Raphaël Houdouin, a Data Analyst with a passion for uncovering valuabl
 In my free time, I enjoy engaging in various hobbies that help me relax and recharge:
 
 - 🎨 **Art & Photography**: Experimenting with digital art and design projects.
-- 🎶 **Music**: Listening to a wide variety of genres, from soul, blues, to amapiano.
+- 🎶 **Music**: Listening to a wide variety of genres, from soul to amapiano.
 - 📚 **Reading**: Diving into books, particularly exploring works on Civil Rights such as:
   - *The Souls of Black Folk* by W.E.B. Du Bois
   - *Eyes Off the Prize* by Carol Anderson
