@@ -1,4 +1,8 @@
-![Hey 👋, I'm Jean-Raphaël - nl-Data Analyst](https://capsule-render.vercel.app/api?type=rect&height=300&color=6C7A89&text=Hey%20👋,%20I'm%20Jean-Raphaël&desc=nl-Data%20Analyst&fontSize=40&fontAlign=40&fontAlignY=40&descAlign=40&descAlignY=100)
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300">
+  <rect width="800" height="300" fill="#E8EEF4"/>
+  <text x="40" y="130" fill="#000000" font-size="40" font-family="Arial" font-weight="bold">Hey 👋, I'm Jean-Raphaël</text>
+  <text x="40" y="190" fill="#000000" font-size="40" font-family="Arial" font-weight="bold">Data Analyst</text>
+</svg>
 
 # **Welcome to My GitHub!**
 
