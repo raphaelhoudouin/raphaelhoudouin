@@ -1,3 +1,4 @@
+![Header Image](https://raw.githubusercontent.com/rhoudouin/rhoudouin/main/header.png)
 
 # 👋 **Welcome to My GitHub!**
 
