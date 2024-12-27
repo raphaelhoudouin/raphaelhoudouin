@@ -25,7 +25,7 @@ I'm Jean-Raphaël Houdouin, a Data Analyst with a passion for uncovering valuabl
 </tr>
 <tr>
 <td>
-<img src="https://skillicons.dev/icons?i=r,bash,git,sass,html,css,bootstrap,github,githubactions,md&perline=3" />
+<img src="https://skillicons.dev/icons?i=python,sql,excel,pandas,numpy,scikitlearn,plotly,seaborn,matplotlib,bokeh,streamlit,powerbi,tableau,lookerstudio,jupyter,alteryx,dataiku&perline=7" />
 </td>
 <td>
 <img src="https://skillicons.dev/icons?i=r,php,regex&perline=3" /> <br>
