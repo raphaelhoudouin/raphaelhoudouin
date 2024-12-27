@@ -64,7 +64,8 @@ I'm Jean-Raphaël Houdouin, a Data Analyst with a passion for uncovering valuabl
 
 In my free time, I enjoy engaging in various hobbies that help me relax and recharge:
 
-- 🎨 **Art & Photography**: Experimenting with digital art and design projects.
+- 🎨 **Art & Photography***: Experimenting with digital art, painting, and design projects. I love exploring different mediums and styles to express creativity. Inspired by artists like [Emory Douglas](https://www.moma.org/artists/70943), whose works are thought-provoking and impactful.
+Inspired by the work of [Joey Lawrence](https://joeylshop.com/pages/exhibitions), whose powerful portraits from Ethiopia and other parts of the world showcase deep cultural stories and human connection.
 - 🎶 **Music**: Listening to a wide variety of genres, from soul to amapiano.
 - 📚 **Reading**: Diving into books, particularly exploring works on Civil Rights such as:
   - *The Souls of Black Folk* by W.E.B. Du Bois
