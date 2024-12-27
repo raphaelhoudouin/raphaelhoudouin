@@ -54,6 +54,8 @@ I’m Jean-Raphaël Houdouin, a Data Analyst with expertise in machine learning 
   </span>
 </td>
 
+[![SAS](https://img.shields.io/badge/SAS-00A8E8?style=for-the-badge&logo=sas&logoColor=white)](https://www.sas.com/)
+
 ## 🖥️ IDE/GUI’s I like
 
 <p align="center">
