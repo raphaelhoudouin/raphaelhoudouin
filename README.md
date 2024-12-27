@@ -24,6 +24,11 @@ I'm Jean-Raphaël Houdouin, a Data Analyst with a passion for uncovering valuabl
 [![Alteryx](https://img.shields.io/badge/Alteryx-097AB8?style=for-the-badge&logo=alteryx&logoColor=white)](https://www.alteryx.com/)
 [![Dataiku](https://img.shields.io/badge/Dataiku-171C3A?style=for-the-badge&logo=dataiku&logoColor=white)](https://www.dataiku.com/)
 
+[![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white)](https://seaborn.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)](https://matplotlib.org/)
+[![Bokeh](https://img.shields.io/badge/Bokeh-FF7A05?style=for-the-badge&logoColor=white)](https://bokeh.org/)
+[![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logoColor=white)](https://powerbi.microsoft.com/)
+
 ## 🖥️ IDE/GUI’s I like
 
 <p align="center">
