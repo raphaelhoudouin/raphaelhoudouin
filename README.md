@@ -57,7 +57,6 @@ Explore more repositories on [GitHub](https://github.com/rhoudouin?tab=repositor
 
 ### Activities I Enjoy:
 - 🎨 **Art & Photography**: Inspired by creators like [Yatreda](https://yatreda.com/) and [Joey Lawrence](https://joeylshop.com/pages/exhibitions).
-- 🎶 **Music**: Exploring genres from soul to amapiano.
 - 🎬 **Cinema**: Watching classic films.
 - 🌍 **Travel**: Bucket list includes Mexico and Thailand.
 - 🏃‍♂️ **Running** | 🏊‍♂️ **Swimming** | 🥾 **Hiking**.
