@@ -50,11 +50,12 @@ I’m Jean-Raphaël Houdouin, a Data Analyst with expertise in machine learning 
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cplusplus.svg" alt="C++" style="width: 40px; height: 40px; margin-right: 10px;" />
   </span>
   <span style="display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/apachespark.svg" alt="Apache Spark" style="width: 40px; height: 40px;" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/apachespark.svg" alt="Apache Spark" style="width: 40px; height: 40px; margin-right: 10px;" />
+  </span>
+  <span style="display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sas.svg" alt="SAS" style="width: 40px; height: 40px;" />
   </span>
 </td>
-
-[![SAS](https://img.shields.io/badge/SAS-00A8E8?style=for-the-badge&logo=sas&logoColor=white)](https://www.sas.com/)
 
 ## 🖥️ IDE/GUI’s I like
 
