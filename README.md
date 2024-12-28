@@ -32,8 +32,6 @@ I’m **Jean-Raphaël Houdouin**, a **Data Analyst** specializing in **machine l
 [![Dataiku](https://img.shields.io/badge/Dataiku-171C3A?style=for-the-badge&logo=dataiku&logoColor=white)](https://www.dataiku.com/)
 
 ### **Want to Learn Next** 🎯
-[![SAS](https://img.shields.io/badge/SAS-005184?style=for-the-badge&logo=sas&logoColor=white)](https://www.sas.com/) [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/) [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/) [![SAS](https://img.shields.io/badge/SAS-005184?style=for-the-badge&logo=sas&logoColor=white)](https://www.sas.com/) [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 
 ---
