@@ -26,16 +26,16 @@ I’m **Jean-Raphaël Houdouin**, a **Data Analyst** specializing in **machine l
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
 [![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google-data-studio&logoColor=white)](https://lookerstudio.google.com/)
 
+### **BI & Dashboard Tools**
+[![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)  
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)  
+[![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google-data-studio&logoColor=white)](https://lookerstudio.google.com/)
+
+
 ### **Data Platforms & Notebooks**
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Alteryx](https://img.shields.io/badge/Alteryx-097AB8?style=for-the-badge&logo=alteryx&logoColor=white)](https://www.alteryx.com/)
 [![Dataiku](https://img.shields.io/badge/Dataiku-171C3A?style=for-the-badge&logo=dataiku&logoColor=white)](https://www.dataiku.com/)
-
-### **Want to Learn** 🎯
-[![R](https://img.shields.io/badge/-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/) [![SAS](https://img.shields.io/badge/SAS-005184?style=for-the-badge&logo=sas&logoColor=white)](https://www.sas.com/) [![C](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-
-### **Want to Learn Next** 🎯
-[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/) [![SAS](https://img.shields.io/badge/SAS-005184?style=for-the-badge&logo=sas&logoColor=white)](https://www.sas.com/) [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 
 ### **Want to Learn Next** 🎯
 [![SAS](https://img.shields.io/badge/SAS-005184?style=for-the-badge&logo=sas&logoColor=white)](https://www.sas.com/) [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/) [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
