@@ -2,7 +2,7 @@
 
 # 👋 **Welcome to My GitHub!**
 
-I’m **Jean-Raphaël Houdouin**, a **Data Analyst** with expertise in **machine learning** and **business intelligence**. Passionate about leveraging data to solve business challenges, I’m excited to bring my skills to innovative projects, especially in the **banking and finance sectors**.
+I’m **Jean-Raphaël Houdouin**, a **Data Analyst** specializing in **machine learning** and **business intelligence**. Passionate about leveraging data to solve business challenges, I'm particularly focused on delivering insights in the **banking** and **finance sectors**.
 
 ---
 
@@ -32,10 +32,9 @@ I’m **Jean-Raphaël Houdouin**, a **Data Analyst** with expertise in **machine
 [![Dataiku](https://img.shields.io/badge/Dataiku-171C3A?style=for-the-badge&logo=dataiku&logoColor=white)](https://www.dataiku.com/)
 
 ### **Want to Learn** 🎯
-[![R](https://img.shields.io/badge/-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)  [![SAS](https://img.shields.io/badge/SAS-005184?style=for-the-badge&logo=sas&logoColor=white)](https://www.sas.com/)  [![C](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-
-### **📚 Want to Learn**  
-[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)  [![SAS](https://img.shields.io/badge/SAS-005184?style=for-the-badge&logo=sas&logoColor=white)](https://www.sas.com/)  [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![R](https://img.shields.io/badge/-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)  
+[![SAS](https://img.shields.io/badge/SAS-005184?style=for-the-badge&logo=sas&logoColor=white)](https://www.sas.com/)  
+[![C](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 
 ---
 
@@ -53,7 +52,7 @@ Explore more repositories on [GitHub](https://github.com/rhoudouin?tab=repositor
 
 ---
 
-## 👤 **My Stats**
+## 👤 **My GitHub Stats**
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rhoudouin&show_icons=true&theme=transparent)
 
@@ -68,12 +67,12 @@ Explore more repositories on [GitHub](https://github.com/rhoudouin?tab=repositor
 - 🌍 **Travel**: Bucket list includes Mexico and Thailand.
 - 🏃‍♂️ **Running** | 🏊‍♂️ **Swimming** | 🥾 **Hiking**.
 - 🍲 **Food**: A favorite dish is Injera with Doro Wat.
+
 ---
 
-## 📫 **Let's Connect**
+## 📫 **Let’s Connect**
 
 - **Name**: Jean-Raphaël Houdouin  
 - **Email**: [jean.raphael.hdn@gmail.com](mailto:jean.raphael.hdn@gmail.com)  
 - **LinkedIn**: [Jean-Raphaël Houdouin](https://linkedin.com/in/jeanraphaelhoudouin)
-
 
