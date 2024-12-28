@@ -70,6 +70,8 @@ Explore more repositories on [GitHub](https://github.com/rhoudouin?tab=repositor
 
 ## 📫 **Let’s Connect**
 
+I’d love to connect and collaborate! Whether it’s discussing data, exploring opportunities, or sharing insights, feel free to reach out.
+
 - **Name**: Jean-Raphaël Houdouin  
 - **Email**: [jean.raphael.hdn@gmail.com](mailto:jean.raphael.hdn@gmail.com)  
 - **LinkedIn**: [Jean-Raphaël Houdouin](https://linkedin.com/in/jeanraphaelhoudouin)
