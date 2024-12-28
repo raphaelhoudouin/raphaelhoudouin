@@ -43,12 +43,12 @@ I’m **Jean-Raphaël Houdouin**, a **Data Analyst** specializing in **data visu
 ### **[credit-risk-prediction](https://github.com/rhoudouin/credit-risk-prediction)**  
 Classifies loan approvals and assesses credit risk using demographic and financial data with preprocessing and a machine learning model.  
 *Technologies: Python, Streamlit, Scikit-learn, Pandas, NumPy, Joblib.*  
-Explore the live app : [Loan and Credit Risk Analysis](https://credit-risk-prediction-gtgpw42rnahzrqrgmxqj4b.streamlit.app/)
+Explore the live app : [Loan and Credit Risk Analysis](https://credit-risk-prediction-gtgpw42rnahzrqrgmxqj4b.streamlit.app/).
 
 ### **[banking-churn-predictor](https://github.com/rhoudouin/banking-churn-predictor)**
 Predicts customer churn using demographic and account data with preprocessing and a neural network model.  
 *Technologies: Python, Streamlit, TensorFlow, Pandas.*  
-Explore the live app: [App Link](https://banking-churn-predictor-c5rmuspwcy8xnfgt773q48.streamlit.app)
+Explore the live app: [App Link](https://banking-churn-predictor-c5rmuspwcy8xnfgt773q48.streamlit.app).
 
 ### **[france-energy-mix](https://github.com/rhoudouin/france-energy-mix)**
 Analysis of historical electricity production and consumption data in France from 2013 to 2023.  
