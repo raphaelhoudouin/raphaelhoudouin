@@ -44,7 +44,7 @@ I’m **Jean-Raphaël Houdouin**, a **Data Analyst** specializing in **machine l
 Analysis of historical electricity production and consumption data in France from 2013 to 2023.  
 *Technologies: Python, Pandas, Matplotlib, Scikit-learn, Streamlit.*
 
-### **[france_delinquency_analysis](https://github.com/rhoudouin/france_delinquency_analysis)**
+### **[france-delinquency-analysis](https://github.com/rhoudouin/france_delinquency_analysis)**
 Statistical analysis of crime data across France, exploring trends and patterns.  
 *Technologies: Python, Pandas.*
 
