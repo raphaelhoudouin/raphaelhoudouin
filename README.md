@@ -40,6 +40,11 @@ I’m **Jean-Raphaël Houdouin**, a **Data Analyst** specializing in **data visu
 
 ## 📈 **Featured Projects**
 
+### **[banking-churn-predictor](https://github.com/rhoudouin/banking-churn-predictor)**
+Predicts customer churn using demographic and account data with preprocessing and a neural network model.  
+*Technologies: Python, Streamlit, TensorFlow, Pandas.*  
+Explore the live app: [App Link](https://banking-churn-predictor-c5rmuspwcy8xnfgt773q48.streamlit.app)
+
 ### **[france-energy-mix](https://github.com/rhoudouin/france-energy-mix)**
 Analysis of historical electricity production and consumption data in France from 2013 to 2023.  
 *Technologies: Python, Pandas, Matplotlib, Scikit-learn, Streamlit.*
