@@ -27,7 +27,7 @@ I’m **Jean-Raphaël Houdouin**, a **Data Analyst** specializing in **machine l
 [![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google-data-studio&logoColor=white)](https://lookerstudio.google.com/)
 
 ### **BI & Dashboard Tools**
-[![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)  
+[![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logoColor=black)](https://powerbi.microsoft.com/)  
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)  
 [![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google-data-studio&logoColor=white)](https://lookerstudio.google.com/)
 
