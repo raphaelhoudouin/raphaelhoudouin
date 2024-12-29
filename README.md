@@ -73,7 +73,7 @@ Explore more repositories on [GitHub](https://github.com/rhoudouin?tab=repositor
 ### Activities I Enjoy:
 - 🎨 **Art & Photography**: Inspired by creators like [Yatreda: ያጥሬዳ](https://yatreda.com/) and [Joey Lawrence](https://joeylshop.com/pages/exhibitions).
 - 🎬 **Cinema**: Watching classic films, I love *生きる (Ikiru)* by Akira Kurosawa. Check out my **ML Movie Recommender App**: [Try it now!](https://rhoudouin-movies-recommender-system.streamlit.app/).
-- 🎶 **Music**: Passionate about genres ranging from soul, jazz, and rock, to electronic, afrobeat, and hip-hop.
+- 🎶 **Music**: A mix of soul, jazz, rock, electronic, afrobeat, and hip-hop flow.
 - 📚 **Reading**: *Georges* by Alexandre Dumas is a favorite.
 - 🌍 **Travel**: Bucket list includes Mexico and Thailand.
 - 🏃‍♂️ **Running** | 🏊‍♂️ **Swimming** | 🥾 **Hiking**.
