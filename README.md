@@ -58,7 +58,7 @@ Reproduction of Charles Joseph Minard's famous chart of Napoleon’s 1812 Russia
 Analysis of historical electricity production and consumption data in France from 2013 to 2023.  
 *Technologies: Python, Pandas, Matplotlib, Scikit-learn, Streamlit.*
 
-### **[france-delinquency-analysis](https://github.com/RaphaelHoudouin/france_delinquency_analysis)**
+### **[france-delinquency-analysis](https://github.com/RaphaelHoudouin/france-delinquency-analysis)**
 Statistical analysis of crime data across France, exploring trends and patterns.  
 *Technologies: Python, Pandas.*
 
