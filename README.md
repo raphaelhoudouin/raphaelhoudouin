@@ -50,6 +50,10 @@ Predicts customer churn using demographic and account data with preprocessing an
 *Technologies: Python, Streamlit, TensorFlow, Pandas.*  
 Explore the live app: [Customer Churn Prediction](https://raphaelhoudouin-banking-churn-prediction.streamlit.app/).
 
+### **[minard-visualization-reproduction](https://github.com/rhoudouin/france-energy-mix)**
+Reproduction of Charles Minard's famous chart of Napoleon’s 1812 Russian campaign, visualized using Python (Matplotlib) for static and Tableau for interactive formats.  
+*Technologies: Python, Matplotlib, Tableau.*
+
 ### **[france-energy-mix](https://github.com/rhoudouin/france-energy-mix)**
 Analysis of historical electricity production and consumption data in France from 2013 to 2023.  
 *Technologies: Python, Pandas, Matplotlib, Scikit-learn, Streamlit.*
