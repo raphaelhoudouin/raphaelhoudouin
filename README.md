@@ -40,12 +40,12 @@ I’m **Jean-Raphaël Houdouin**, a **Data Analyst** specializing in **data visu
 
 ## 📈 **Featured Projects**
 
-### **[credit-risk-prediction](https://github.com/rhoudouin/credit-risk-prediction)**  
+### **[credit-risk-prediction](https://github.com/RaphaelHoudouin/credit-risk-prediction)**  
 Classifies loan approvals and assesses credit risk using demographic and financial data with preprocessing and a machine learning model.  
 *Technologies: Python, Streamlit, Scikit-learn, Pandas, NumPy, Joblib.*  
 Explore the live app : [Credit Risk Analyzer](https://raphaelhoudouin-credit-risk-prediction.streamlit.app/).
 
-### **[banking-churn-predictor](https://github.com/rhoudouin/banking-churn-predictor)**
+### **[banking-churn-predictor](https://github.com/RaphaelHoudouin/banking-churn-predictor)**
 Predicts customer churn using demographic and account data with preprocessing and a neural network model.  
 *Technologies: Python, Streamlit, TensorFlow, Pandas.*  
 Explore the live app: [Customer Churn Prediction](https://raphaelhoudouin-banking-churn-prediction.streamlit.app/).
@@ -54,11 +54,11 @@ Explore the live app: [Customer Churn Prediction](https://raphaelhoudouin-bankin
 Reproduction of Charles Minard's famous chart of Napoleon’s 1812 Russian campaign, visualized using Python (Matplotlib) for static and Tableau for interactive formats.  
 *Technologies: Python, Matplotlib, Tableau.*
 
-### **[france-energy-mix](https://github.com/rhoudouin/france-energy-mix)**
+### **[france-energy-mix](https://github.com/RaphaelHoudouin/france-energy-mix)**
 Analysis of historical electricity production and consumption data in France from 2013 to 2023.  
 *Technologies: Python, Pandas, Matplotlib, Scikit-learn, Streamlit.*
 
-### **[france-delinquency-analysis](https://github.com/rhoudouin/france_delinquency_analysis)**
+### **[france-delinquency-analysis](https://github.com/RaphaelHoudouin/france_delinquency_analysis)**
 Statistical analysis of crime data across France, exploring trends and patterns.  
 *Technologies: Python, Pandas.*
 
