@@ -51,7 +51,7 @@ Predicts customer churn using demographic and account data with preprocessing an
 Explore the live app: [Customer Churn Prediction](https://raphaelhoudouin-banking-churn-prediction.streamlit.app/).
 
 ### **[minard-visualization-reproduction](https://github.com/RaphaelHoudouin/minard-visualization-reproduction)**
-Reproduction of Charles Minard's famous chart of Napoleon’s 1812 Russian campaign, visualized using Python (Matplotlib) for static and Tableau for interactive formats.  
+Reproduction of Charles Joseph Minard's famous chart of Napoleon’s 1812 Russian campaign, visualized using Python (Matplotlib) for static and Tableau for interactive formats.  
 *Technologies: Python, Matplotlib, Tableau.*
 
 ### **[france-energy-mix](https://github.com/RaphaelHoudouin/france-energy-mix)**
