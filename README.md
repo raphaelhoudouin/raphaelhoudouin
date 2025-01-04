@@ -45,7 +45,7 @@ Classifies loan approvals and assesses credit risk using demographic and financi
 *Technologies: Python, Streamlit, Scikit-learn, Pandas, NumPy, Joblib.*  
 Explore the live app : [Credit Risk Analyzer](https://raphaelhoudouin-credit-risk-prediction.streamlit.app/).
 
-### **[banking-churn-predictor]([https](https://github.com/RaphaelHoudouin/banking-churn-predictor)**
+### **[banking-churn-predictor](https://github.com/RaphaelHoudouin/banking-churn-predictor)**
 Predicts customer churn using demographic and account data with preprocessing and a neural network model.  
 *Technologies: Python, Streamlit, TensorFlow, Pandas.*  
 Explore the live app: [Customer Churn Prediction](https://raphaelhoudouin-banking-churn-prediction.streamlit.app/).
