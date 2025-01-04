@@ -43,12 +43,12 @@ I’m **Jean-Raphaël Houdouin**, a **Data Analyst** specializing in **data visu
 ### **[credit-risk-prediction](https://github.com/rhoudouin/credit-risk-prediction)**  
 Classifies loan approvals and assesses credit risk using demographic and financial data with preprocessing and a machine learning model.  
 *Technologies: Python, Streamlit, Scikit-learn, Pandas, NumPy, Joblib.*  
-Explore the live app : [Credit Risk Analyzer](https://rhoudouin-credit-risk-prediction.streamlit.app/).
+Explore the live app : [Credit Risk Analyzer](https://raphaelhoudouin-credit-risk-prediction.streamlit.app/).
 
 ### **[banking-churn-predictor](https://github.com/rhoudouin/banking-churn-predictor)**
 Predicts customer churn using demographic and account data with preprocessing and a neural network model.  
 *Technologies: Python, Streamlit, TensorFlow, Pandas.*  
-Explore the live app: [Customer Churn Prediction](https://rhoudouin-banking-churn-predictor.streamlit.app/).
+Explore the live app: [Customer Churn Prediction](https://raphaelhoudouin-banking-churn-predictor.streamlit.app/).
 
 ### **[france-energy-mix](https://github.com/rhoudouin/france-energy-mix)**
 Analysis of historical electricity production and consumption data in France from 2013 to 2023.  
@@ -58,13 +58,13 @@ Analysis of historical electricity production and consumption data in France fro
 Statistical analysis of crime data across France, exploring trends and patterns.  
 *Technologies: Python, Pandas.*
 
-Explore more repositories on [GitHub](https://github.com/rhoudouin?tab=repositories).
+Explore more repositories on [GitHub](https://github.com/raphaelhoudouin?tab=repositories).
 
 ---
 
 ## 👤 **My GitHub Stats**
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rhoudouin&show_icons=true&theme=transparent)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelhoudouin&show_icons=true&theme=transparent)
 
 ---
 
@@ -72,7 +72,7 @@ Explore more repositories on [GitHub](https://github.com/rhoudouin?tab=repositor
 
 ### Activities I Enjoy:
 - 🎨 **Art & Photography**: Inspired by creators like [Yatreda: ያጥሬዳ](https://yatreda.com/) and [Joey Lawrence](https://joeylshop.com/pages/exhibitions).
-- 🎬 **Cinema**: Watching classic films, I love *生きる (Ikiru)* by Akira Kurosawa. Check out my **ML Movie Recommender App**: [Try it now!](https://rhoudouin-movies-recommender-system.streamlit.app/).
+- 🎬 **Cinema**: Watching classic films, I love *生きる (Ikiru)* by Akira Kurosawa. Check out my **ML Movie Recommender App**: [Try it now!](https://raphaelhoudouin-movies-recommender-system.streamlit.app/).
 - 🎶 **Music**: A mix of soul, jazz, rock, electronic, afrobeat, and hip-hop flow.
 - 📚 **Reading**: *Georges* by Alexandre Dumas is a favorite.
 - 🌍 **Travel**: Bucket list includes Mexico and Thailand.
