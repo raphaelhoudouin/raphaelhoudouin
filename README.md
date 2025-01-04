@@ -48,7 +48,7 @@ Explore the live app : [Credit Risk Analyzer](https://raphaelhoudouin-credit-ris
 ### **[banking-churn-predictor](https://github.com/rhoudouin/banking-churn-predictor)**
 Predicts customer churn using demographic and account data with preprocessing and a neural network model.  
 *Technologies: Python, Streamlit, TensorFlow, Pandas.*  
-Explore the live app: [Customer Churn Prediction](https://raphaelhoudouin-banking-churn-predictor.streamlit.app/).
+Explore the live app: [Customer Churn Prediction](https://raphaelhoudouin-banking-churn-prediction.streamlit.app/).
 
 ### **[france-energy-mix](https://github.com/rhoudouin/france-energy-mix)**
 Analysis of historical electricity production and consumption data in France from 2013 to 2023.  
