@@ -50,6 +50,10 @@ Predicts customer churn using demographic and account data with preprocessing an
 *Technologies: Python, Streamlit, TensorFlow, Pandas.*  
 Explore the live app: [Customer Churn Prediction](https://raphaelhoudouin-banking-churn-prediction.streamlit.app/).
 
+### **[financial-reporting-analysis](https://github.com/RaphaelHoudouin/financial-reporting-analysis)**
+Comprehensive financial reporting and analysis solution with Power BI, utilizing DAX for insightful visualizations.
+*Technologies: Power BI, DAX.*
+
 ### **[minard-visualization-reproduction](https://github.com/RaphaelHoudouin/minard-visualization-reproduction)**
 Reproduction of Charles Joseph Minard's famous chart of Napoleon’s 1812 Russian campaign, visualized using Python (Matplotlib) for static and Tableau for interactive formats.  
 *Technologies: Python, Matplotlib, Tableau.*
