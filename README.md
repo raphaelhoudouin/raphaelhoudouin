@@ -55,7 +55,7 @@ Comprehensive financial reporting and analysis solution built with Power BI, lev
 *Technologies: Power BI, Power Query, DAX,M.*
 
 ### **[financial-reporting-analysis](https://github.com/RaphaelHoudouin/financial-reporting-analysis)**
-Reproduction of Charles Joseph Minard's famous chart of Napoleon’s 1812 Russian campaign, visualized using Python (Matplotlib) for static and Tableau for interactive formats.  
+Comprehensive financial reporting and analysis solution built with Power BI, leveraging DAX for advanced calculations and delivering insightful, interactive visualizations across diverse financial datasets. 
 *Technologies: Power BI, Power Query, DAX,M.*
 
 ### **[minard-visualization-reproduction](https://github.com/RaphaelHoudouin/minard-visualization-reproduction)**
