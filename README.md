@@ -55,7 +55,7 @@ Comprehensive financial reporting and analysis solution using Power BI, DAX, and
 *Technologies: Power BI, Power Query, DAX,M.*
 
 ### **[minard-visualization-reproduction](https://github.com/RaphaelHoudouin/minard-visualization-reproduction)**
-Reproduction of Charles Joseph Minard's famous chart of Napoleon’s 1812 Russian campaign, visualized using Python (Matplotlib) for static and Tableau for interactive formats.  
+Reproduction of *Charles Joseph Minard's* renowned 1869 chart of Napoleon’s 1812 Russian campaign, visualized using Python (Matplotlib) for static and Tableau for interactive formats.  
 *Technologies: Python, Matplotlib, Tableau.*
 
 ### **[france-energy-mix](https://github.com/RaphaelHoudouin/france-energy-mix)**
