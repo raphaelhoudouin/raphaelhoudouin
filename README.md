@@ -50,7 +50,7 @@ Predicts customer churn using demographic and account data with preprocessing an
 *Technologies: Python, Streamlit, TensorFlow, Pandas.*  
 Explore the live app: [Customer Churn Prediction](https://raphaelhoudouin-banking-churn-prediction.streamlit.app/).
 
-### **[financial-reporting-analysis](https://github.com/RaphaelHoudouin/financial-reporting-analysis)**
+### **[financial-reporting-solution](https://github.com/RaphaelHoudouin/financial-reporting-solution)**
 Comprehensive financial reporting and analysis solution using Power BI, DAX, and interactive visualizations for diverse financial datasets.
 *Technologies: Power BI, Power Query, DAX,M.*
 
