@@ -66,6 +66,7 @@ Analysis of historical electricity production and consumption data in France fro
 Statistical analysis of crime data across France, exploring trends and patterns.  
 *Technologies: Python, Pandas.*
 
+- 
 Explore more [Repositories](https://github.com/raphaelhoudouin?tab=repositories) on Github, and visit my [Portfolio](https://github.com/raphaelhoudouin/portfolio).
 
 ---
