@@ -51,7 +51,7 @@ Predicts customer churn using demographic and account data with preprocessing an
 Explore the live app: [Customer Churn Prediction](https://raphaelhoudouin-banking-churn-prediction.streamlit.app/).
 
 ### **[financial-reporting-solution](https://github.com/RaphaelHoudouin/financial-reporting-solution)**
-Comprehensive financial reporting and analysis solution using Power BI, DAX, and interactive visualizations for diverse financial datasets.
+Comprehensive financial reporting and analysis solution using Power BI, DAX, and interactive visualizations.
 *Technologies: Power BI, Power Query, DAX,M.*
 
 ### **[minard-visualization-reproduction](https://github.com/RaphaelHoudouin/minard-visualization-reproduction)**
