@@ -62,11 +62,11 @@ Reproduction of *Charles Joseph Minard's* renowned 1869 chart of Napoleon’s 18
 Analysis and visualization of call center performance, tracking key metrics like total revenue, average call time, and SLA compliance.  
 *Technologies: Power BI, Power Query, DAX,M.*
 
-### **[france-energy-mix](https://github.com/RaphaelHoudouin/france-energy-mix)**
+### **[france-energy-mix](https://github.com/raphaelhoudouin/france-energy-mix)**
 Analysis of historical electricity production and consumption data in France from 2013 to 2023.  
 *Technologies: Python, Pandas, Matplotlib, Scikit-learn, Streamlit.*
 
-### **[france-delinquency-analysis](https://github.com/RaphaelHoudouin/france-delinquency-analysis)**
+### **[france-delinquency-analysis](https://github.com/raphaelhoudouin/france-delinquency-analysis)**
 Statistical analysis of crime data across France, exploring trends and patterns.  
 *Technologies: Python, Pandas.*
 
