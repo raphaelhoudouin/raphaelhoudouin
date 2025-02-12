@@ -77,9 +77,7 @@ Explore more [Repositories](https://github.com/raphaelhoudouin?tab=repositories)
 
 ## 👤 **My GitHub Stats**
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelhoudouin&show_icons=true&theme=transparent)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelhoudouin&show_icons=true&theme=dark)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelhoudouin&show_icons=true&theme=dark)
 
 ---
 
