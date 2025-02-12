@@ -102,3 +102,6 @@ I’d love to connect and collaborate! Whether it’s discussing data, exploring
 - **Email**: [raphael.houdouin@outlook.com](mailto:raphael.houdouin@outlook.com)  
 - **LinkedIn**: [Raphaël Houdouin](https://linkedin.com/in/raphaelhoudouin)
 
+---
+
+  
