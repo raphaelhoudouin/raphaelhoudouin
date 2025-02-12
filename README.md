@@ -2,7 +2,7 @@
 
 # 👋 **Welcome to My GitHub!**
 
-I’m **Jean-Raphaël Houdouin**, a **Data Analyst** specializing in **data visualization**, **machine learning**, and **business intelligence**. Passionate about leveraging data to solve complex business challenges, I aspire to deliver actionable insights and drive impactful projects in the **banking** and **financial services sectors**.
+I’m **Raphaël Houdouin**, a **Data Analyst** specializing in **data visualization**, **machine learning**, and **business intelligence**. Passionate about leveraging data to solve complex business challenges, I aspire to deliver actionable insights and drive impactful projects in the **banking** and **financial services sectors**.
 
 ---
 
@@ -98,7 +98,7 @@ Explore more [Repositories](https://github.com/raphaelhoudouin?tab=repositories)
 
 I’d love to connect and collaborate! Whether it’s discussing data, exploring opportunities, or sharing insights, feel free to reach out.
 
-- **Name**: Jean-Raphaël Houdouin  
-- **Email**: [jean.raphael.hdn@gmail.com](mailto:jean.raphael.hdn@gmail.com)  
-- **LinkedIn**: [Jean-Raphaël Houdouin](https://linkedin.com/in/jeanraphaelhoudouin)
+- **Name**: Raphaël Houdouin  
+- **Email**: [raphael.houdouin@outlook.com](mailto:raphael.houdouin@outlook.com)  
+- **LinkedIn**: [Raphaël Houdouin](https://linkedin.com/in/raphaelhoudouin)
 
