@@ -24,11 +24,10 @@ I’m **Raphaël Houdouin**, a **Data Analyst** specializing in **data visualiza
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 
 ### **BI & Dashboard Tools**
-[![Power  BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)](https://powerbi.microsoft.com/)
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)](https://powerbi.microsoft.com/)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
 [![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google-data-studio&logoColor=white)](https://lookerstudio.google.com/)
-[![Qlik Sense](https://img.shields.io/badge/Qlik_Sense-%230078D7?style=for-the-badge&logo=qlik&logoColor=white)](https://www.qlik.com/)
+[![Qlik Sense](https://img.shields.io/badge/Qlik%20Sense-72C02C?style=for-the-badge&logo=qlik&logoColor=white)](https://www.qlik.com/)
 
 ### **Data Platforms & Notebooks**
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
