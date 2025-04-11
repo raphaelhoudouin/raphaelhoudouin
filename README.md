@@ -28,6 +28,7 @@ I’m **Raphaël Houdouin**, a **Data Analyst** specializing in **data visualiza
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
 [![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google-data-studio&logoColor=white)](https://lookerstudio.google.com/)
 [![Qlik Sense](https://img.shields.io/badge/Qlik%20Sense-72C02C?style=for-the-badge&logo=qlik&logoColor=white)](https://www.qlik.com/)
+[![MicroStrategy](https://img.shields.io/badge/MicroStrategy-E4002B?style=for-the-badge)](https://www.microstrategy.com/)
 
 ### **Data Platforms & Notebooks**
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
