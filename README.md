@@ -92,7 +92,7 @@ Explore more [Repositories](https://github.com/raphaelhoudouin?tab=repositories)
 - 📚 **Reading**: *Georges* by Alexandre Dumas is a favorite.
 - 🌍 **Travel**: Bucket list includes Mexico and Thailand.
 - 🏃‍♂️ **Running** | 🏊‍♂️ **Swimming** | 🥾 **Hiking**.
-- 🍲 **Food**: A favorite dish is Injera with Doro Wat.
+- 🍲 **Food**: A favorite dish is Doro Wat with injera.
 
 ---
 
