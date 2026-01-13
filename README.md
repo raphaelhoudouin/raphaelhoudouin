@@ -89,7 +89,6 @@ Explore more [Repositories](https://github.com/raphaelhoudouin?tab=repositories)
 - 🎨 **Art & Photography**: Inspired by creators like [Yatreda: ያጥሬዳ](https://yatreda.com/) and [Joey Lawrence](https://joeylshop.com/pages/exhibitions).
 - 🎬 **Cinema**: Watching classic films, I love *生きる (Ikiru)* by Akira Kurosawa. Check out my **ML Movie Recommender App**: [Try it now!](https://raphaelhoudouin-movies-recommender-system.streamlit.app/).
 - 🎶 **Music**: A mix of soul, electronic, afrobeat, and hip-hop flow.
-- 📚 **Reading**: *Georges* by Alexandre Dumas is a favorite.
 - 🌍 **Travel**: Bucket list includes Mexico and Thailand.
 - 🏃‍♂️ **Running** | 🏊‍♂️ **Swimming** | 🥾 **Hiking**.
 - 🍲 **Food**: A favorite dish is Doro Wat with injera.
