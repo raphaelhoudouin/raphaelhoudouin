@@ -2,7 +2,7 @@
 
 # 👋 **My GitHub!**
 
-I’m **Raphaël Houdouin**, a **Financial Data Analyst** specializing in **data visualization**, **machine learning**, and **business intelligence**. Passionate about leveraging data to solve complex business challenges, I aspire to deliver actionable insights and drive impactful projects in the **banking** and **financial services sectors**.
+I’m a **Financial Data Analyst** specializing in **data visualization**, **machine learning**, and **business intelligence**. Passionate about leveraging data to solve complex business challenges, I aspire to deliver actionable insights and drive impactful projects in the **banking** and **financial services sectors**.
 
 ---
 
