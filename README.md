@@ -54,7 +54,7 @@ Explore the live app: [Customer Churn Prediction](https://raphaelhoudouin-bankin
 
 ### **[financial-reporting-solution](https://github.com/RaphaelHoudouin/financial-reporting-solution)**
 Comprehensive financial reporting and analysis solution using Power BI, DAX, and interactive visualizations.
-*Technologies: Power BI, Power Query, DAX,M.*
+*Technologies: Power BI, Power Query, DAX, M.*
 
 ### **[minard-visualization-reproduction](https://github.com/RaphaelHoudouin/minard-visualization-reproduction)**
 Reproduction of *Charles Joseph Minard's* renowned 1869 chart of Napoleon’s 1812 Russian campaign, visualized using Python (Matplotlib) for static and Tableau for interactive formats.  
