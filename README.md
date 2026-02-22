@@ -1,6 +1,6 @@
 ![Header Image](https://raw.githubusercontent.com/raphaelhoudouin/raphaelhoudouin/main/header.png)
 
-# 👋 **Welcome to My GitHub!**
+# 👋 **My GitHub!**
 
 I’m **Raphaël Houdouin**, a **Financial Data Analyst** specializing in **data visualization**, **machine learning**, and **business intelligence**. Passionate about leveraging data to solve complex business challenges, I aspire to deliver actionable insights and drive impactful projects in the **banking** and **financial services sectors**.
 
@@ -74,18 +74,6 @@ Statistical analysis of crime data across France, exploring trends and patterns.
 
 
 Explore more [Repositories](https://github.com/raphaelhoudouin?tab=repositories) on Github, and visit my [Portfolio](https://github.com/raphaelhoudouin/portfolio).
-
----
-
-## 🕒 **My Downtime**
-
-### Activities I Enjoy:
-- 🎨 **Art & Photography**: Inspired by creators like [Yatreda: ያጥሬዳ](https://yatreda.com/) and [Joey Lawrence](https://joeylshop.com/pages/exhibitions).
-- 🎬 **Cinema**: Watching classic films, I love *生きる (Ikiru)* by Akira Kurosawa. Check out my **ML Movie Recommender App**: [Try it now!](https://raphaelhoudouin-movies-recommender-system.streamlit.app/).
-- 🎶 **Music**: A mix of soul, electronic, afrobeat, and hip-hop flow.
-- 🌍 **Travel**: Bucket list includes Mexico and Thailand.
-- 🏃‍♂️ **Running** | 🏊‍♂️ **Swimming** | 🥾 **Hiking**.
-- 🍲 **Food**: A favorite dish is Doro Wat with injera.
 
 ---
 
