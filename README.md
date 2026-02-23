@@ -44,33 +44,33 @@ I’m a **Financial Data Analyst** specializing in **data visualization**, **mac
 
 ### **[credit-risk-prediction](https://github.com/RaphaelHoudouin/credit-risk-prediction)**  
 Classifies loan approvals and assesses credit risk using demographic and financial data with preprocessing and a machine learning model.  
-*Technologies: Python, Streamlit, Scikit-learn, Pandas, NumPy, Joblib*  
+*Technologies: Python, Streamlit, Scikit-learn, Pandas, NumPy, Joblib.*  
 Explore the live app : [Credit Risk Analyzer](https://raphaelhoudouin-credit-risk-prediction.streamlit.app/).
 
 ### **[banking-churn-predictor](https://github.com/RaphaelHoudouin/banking-churn-prediction)**
 Predicts customer churn using demographic and account data with preprocessing and a neural network model.  
-*Technologies: Python, Streamlit, TensorFlow, Pandas*  
+*Technologies: Python, Streamlit, TensorFlow, Pandas.*  
 Explore the live app: [Customer Churn Prediction](https://raphaelhoudouin-banking-churn-prediction.streamlit.app/).
 
 ### **[financial-reporting-solution](https://github.com/RaphaelHoudouin/financial-reporting-solution)**
 Comprehensive financial reporting and analysis solution using Power BI, DAX, and interactive visualizations.
-*Technologies: Power BI, Power Query, DAX, M*
+*Technologies: Power BI, Power Query, DAX, M.*
 
 ### **[minard-visualization-reproduction](https://github.com/RaphaelHoudouin/minard-visualization-reproduction)**
 Reproduction of *Charles Joseph Minard's* renowned 1869 chart of Napoleon’s 1812 Russian campaign, visualized using Python (Matplotlib) for static and Tableau for interactive formats.  
-*Technologies: Python, Matplotlib, Tableau*
+*Technologies: Python, Matplotlib, Tableau.*
 
 ### **[callcenter-analytics-powerbi](https://github.com/RaphaelHoudouin/callcenter_analytics_powerbi)**
 Analysis and visualization of call center performance, tracking key metrics like total revenue, average call time, and SLA compliance.  
-*Technologies: Power BI, Power Query, DAX, M*
+*Technologies: Power BI, Power Query, DAX, M.*
 
 ### **[france-energy-mix](https://github.com/raphaelhoudouin/france-energy-mix)**
 Analysis of historical electricity production and consumption data in France from 2013 to 2023.  
-*Technologies: Python, Pandas, Matplotlib, Scikit-learn, Streamlit*
+*Technologies: Python, Pandas, Matplotlib, Scikit-learn, Streamlit.*
 
 ### **[france-delinquency-analysis](https://github.com/raphaelhoudouin/france-delinquency-analysis)**
 Statistical analysis of crime data across France, exploring trends and patterns.  
-*Technologies: Python, Pandas*
+*Technologies: Python, Pandas.*
 
 
 Explore more [Repositories](https://github.com/raphaelhoudouin?tab=repositories) on Github, and visit my [Portfolio](https://github.com/raphaelhoudouin/portfolio).
