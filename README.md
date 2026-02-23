@@ -62,7 +62,7 @@ Reproduction of *Charles Joseph Minard's* renowned 1869 chart of Napoleon’s 18
 
 ### **[callcenter-analytics-powerbi](https://github.com/RaphaelHoudouin/callcenter_analytics_powerbi)**
 Analysis and visualization of call center performance, tracking key metrics like total revenue, average call time, and SLA compliance.  
-*Technologies: Power BI, Power Query, DAX,M.*
+*Technologies: Power BI, Power Query, DAX, M.*
 
 ### **[france-energy-mix](https://github.com/raphaelhoudouin/france-energy-mix)**
 Analysis of historical electricity production and consumption data in France from 2013 to 2023.  
