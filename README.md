@@ -44,7 +44,9 @@ I’m a **Financial Data Analyst** specializing in **data visualization**, **mac
 
 ### **[credit-risk-prediction](https://github.com/RaphaelHoudouin/credit-risk-prediction)**  
 Classifies loan approvals and assesses credit risk using demographic and financial data with preprocessing and a machine learning model.  
+
 *Technologies: Python, Streamlit, Scikit-learn, Pandas, NumPy, Joblib.*  
+
 Explore the live app : [Credit Risk Analyzer](https://raphaelhoudouin-credit-risk-prediction.streamlit.app/).
 
 ### **[banking-churn-predictor](https://github.com/RaphaelHoudouin/banking-churn-prediction)**
